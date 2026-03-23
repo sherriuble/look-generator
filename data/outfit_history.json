@@ -1,0 +1,257 @@
+[
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|cluster|cluster_top_008"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "sport",
+    "match_key": "pleasant_chilly|sport|item|top_longsleeve_carhartt"
+  },
+  {
+    "weather": "cold",
+    "occasion": "work",
+    "match_key": "cold|work|item|top_hoodie_sweater_grey_sweatshirt"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_dress_t_shirt_dress_black"
+  },
+  {
+    "weather": "cold",
+    "occasion": "work",
+    "match_key": "cold|work|item|top_hoodie_sweater_uniqlo_blue_sweater"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "cold",
+    "occasion": "casual",
+    "match_key": "cold|casual|item|top_hoodie_sweater_champion_white"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "work",
+    "match_key": "hot_warm|work|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "work",
+    "match_key": "hot_warm|work|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "work",
+    "match_key": "hot_warm|work|item|top_shirt_stripy_knit_shirt"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "work",
+    "match_key": "hot_warm|work|item|top_tshirt_zara_white"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "work",
+    "match_key": "hot_warm|work|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "cold",
+    "occasion": "sport",
+    "match_key": "cold|sport|item|top_hoodie_sweater_pink_champion_hoodie"
+  },
+  {
+    "weather": "cold",
+    "occasion": "sport",
+    "match_key": "cold|sport|cluster|cluster_top_001"
+  },
+  {
+    "weather": "cold",
+    "occasion": "sport",
+    "match_key": "cold|sport|cluster|cluster_top_001"
+  },
+  {
+    "weather": "cold",
+    "occasion": "sport",
+    "match_key": "cold|sport|cluster|cluster_top_001"
+  },
+  {
+    "weather": "cold",
+    "occasion": "sport",
+    "match_key": "cold|sport|cluster|cluster_top_001"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_shirt_grey_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_longsleeve_nike_money"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_uniqlo_green"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|cluster|cluster_top_005"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_jacquemus_black_hoodie"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_grey_sweatshirt"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_adidas_sweatshirt"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_long_black_dress_hoodie"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_longsleeve_champion"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_grey_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_nike_tennis_quarterzip"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|cluster|cluster_top_004"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_nike_tennis_quarterzip"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_nike_tennis_quarterzip"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_nike_tennis_quarterzip"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_grey_sweatshirt"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|cluster|cluster_top_005"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_adidas_sweatshirt"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_hoodie_sweater_jacquemus_black_hoodie"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_longsleeve_champion"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_grey_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|top_shirt_uniqlo_green"
+  },
+  {
+    "weather": "cold",
+    "occasion": "work",
+    "match_key": "cold|work|item|top_hoodie_sweater_south_pole_sweater"
+  },
+  {
+    "weather": "cold",
+    "occasion": "work",
+    "match_key": "cold|work|item|top_hoodie_sweater_uniqlo_green_sweater"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_hoodie_sweater_adidas_sweatshirt"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "sport",
+    "match_key": "hot_warm|sport|cluster|cluster_top_006"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_shirt_stripy_knit_shirt"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_tshirt_tanktop_black"
+  }
+]

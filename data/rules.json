@@ -1,0 +1,38 @@
+[
+  {
+    "rule_id": "base_hot_warm",
+    "occasion": "*",
+    "weather_bucket": "hot_warm",
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "forbidden_subtypes": [],
+    "notes": "Hat/underlayer/overlayer optional."
+  },
+  {
+    "rule_id": "base_pleasant_chilly",
+    "occasion": "*",
+    "weather_bucket": "pleasant_chilly",
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "forbidden_subtypes": [],
+    "notes": "Allow optional layers based on match data."
+  },
+  {
+    "rule_id": "base_cold",
+    "occasion": "*",
+    "weather_bucket": "cold",
+    "required_slots": [
+      "top",
+      "bottom",
+      "shoes"
+    ],
+    "forbidden_subtypes": [],
+    "notes": "Prefer overlayer matches when available."
+  }
+]

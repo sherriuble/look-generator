@@ -1,0 +1,202 @@
+body {
+  margin: 0;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #0f1118;
+  color: #e7eaf3;
+}
+
+.container {
+  max-width: 1040px;
+  margin: 22px auto 34px;
+  padding: 0 18px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.ghost-btn {
+  height: 34px;
+  padding: 0 12px;
+  border-radius: 10px;
+  border: 1px solid #2d3242;
+  background: #141826;
+  color: #afb5c7;
+  cursor: not-allowed;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.picker-section h2 {
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 15px;
+  color: #8e97af;
+}
+
+.picker-section {
+  margin-bottom: 18px;
+}
+
+.weather-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(180px, 1fr));
+  gap: 10px;
+}
+
+.occasion-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(130px, 1fr));
+  gap: 10px;
+}
+
+.weather-card,
+.occasion-pill {
+  border-radius: 16px;
+  border: 1px solid #2f3445;
+  background: #151a28;
+  color: #e7eaf3;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.weather-card {
+  text-align: left;
+  padding: 12px;
+  min-height: 96px;
+}
+
+.weather-card:hover,
+.occasion-pill:hover {
+  border-color: #464f67;
+}
+
+.weather-card.active,
+.occasion-pill.active {
+  border-color: #7286ff;
+  box-shadow: 0 0 0 1px #7286ff inset;
+  background: #191f33;
+}
+
+.weather-icon {
+  font-size: 22px;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.weather-name {
+  font-size: 22px;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.weather-range {
+  margin-top: 2px;
+  font-size: 15px;
+  color: #9da6bc;
+}
+
+.occasion-pill {
+  height: 48px;
+  font-size: 22px;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.actions {
+  margin-top: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+label.checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #a8b0c6;
+  font-size: 14px;
+}
+
+label.checkbox input {
+  width: 15px;
+  height: 15px;
+}
+
+.primary-btn {
+  height: 40px;
+  padding: 0 14px;
+  border-radius: 10px;
+  border: none;
+  background: #6d80ff;
+  color: #f7f8ff;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.result {
+  margin-top: 20px;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+}
+
+.card {
+  border: 1px solid #2f323d;
+  background: #1a1c22;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  background: #101116;
+}
+
+.card .meta {
+  padding: 8px;
+}
+
+.card .slot {
+  font-size: 11px;
+  text-transform: uppercase;
+  opacity: 0.7;
+  letter-spacing: 0.05em;
+}
+
+.card .name {
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 920px) {
+  .weather-grid {
+    grid-template-columns: 1fr;
+  }
+  .occasion-grid {
+    grid-template-columns: repeat(2, minmax(120px, 1fr));
+  }
+  .topbar h1 {
+    font-size: 26px;
+  }
+}

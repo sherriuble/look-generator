@@ -1,0 +1,2830 @@
+[
+  {
+    "item_id": "bottom_pants_adidas_sweatpants",
+    "name": "Adidas Sweatpants",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:828",
+      "12:831"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_baggy_black_slacks",
+    "name": "Baggy Black Slacks",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "159:2601",
+      "159:2604"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_black_dickies",
+    "name": "Black Dickies",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:639",
+      "12:642"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_blue_wide",
+    "name": "Blue Wide",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:569",
+      "12:602"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_grey_asos",
+    "name": "Grey ASOS",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:738",
+      "12:741"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_grey_slacks",
+    "name": "Grey Slacks",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:774",
+      "12:777"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_leggins",
+    "name": "Leggins",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "sport",
+      "work",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:756",
+      "12:759"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_new_blue_wide_jeans",
+    "name": "New Blue Wide Jeans",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "226:2691",
+      "226:2682"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_nike_pro_sport_leggins",
+    "name": "Nike Pro Sport Leggins",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:702",
+      "12:705"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_primark_green_pants",
+    "name": "Primark Green Pants",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:810",
+      "12:813"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_primark_wool_pants",
+    "name": "Primark Wool Pants",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:792",
+      "12:795"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_wide_chino",
+    "name": "Wide Chino",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:682",
+      "12:685"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_wrangler",
+    "name": "Wrangler",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:720",
+      "12:723"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_pants_zebra",
+    "name": "Zebra",
+    "type": "bottom",
+    "subtype": "pants",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:664",
+      "12:667"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_black_cotton_shorts",
+    "name": "Black Cotton Shorts",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:513",
+      "12:516"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_black_denim_shorts",
+    "name": "Black Denim Shorts",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:287",
+      "19:290"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_cycling_shorts",
+    "name": "Cycling Shorts",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "2:289",
+      "2:292"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_dress_shorts",
+    "name": "Dress Shorts",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:305",
+      "19:308"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_gramicci_shorts",
+    "name": "Gramicci Shorts",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:538",
+      "12:541"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_kill_crew_green",
+    "name": "Kill Crew Green",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "1:115",
+      "2:98"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_nike_everyone_watches_women_s_sport",
+    "name": "Nike Everyone Watches Women's Sport",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "1:171",
+      "2:84"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "bottom_shorts_wnbgay_shorts",
+    "name": "WNBGAY Shorts",
+    "type": "bottom",
+    "subtype": "shorts",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:559",
+      "12:562"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_bart",
+    "name": "Bart",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:488",
+      "12:491"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_beanie_black",
+    "name": "Beanie - Black",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:407",
+      "12:410"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_beanie_green",
+    "name": "Beanie - Green",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:434",
+      "12:437"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_beanie_red",
+    "name": "Beanie - Red",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:470",
+      "12:473"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_beanie_yellow",
+    "name": "Beanie - Yellow",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:452",
+      "12:455"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_cubs_green",
+    "name": "Cubs Green",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "1:142",
+      "2:131"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_i_don_t_work_here",
+    "name": "I Don't Work Here",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:379",
+      "12:382"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "hat_hat_la_black",
+    "name": "LA Black",
+    "type": "hat",
+    "subtype": "hat",
+    "occasions": [
+      "casual",
+      "sport",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "2:307",
+      "2:310"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_asos_big_trench",
+    "name": "ASOS Big Trench",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "17:270",
+      "17:273"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_black_denim_jacket",
+    "name": "Black Denim Jacket",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "17:320",
+      "17:323"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_black_puffy_bomber",
+    "name": "Black Puffy Bomber",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "15:168",
+      "15:171"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_cheetah_blazer",
+    "name": "Cheetah Blazer",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:864",
+      "23:866"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "name": "Grey Blazer",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:848",
+      "23:851"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_herringbone_coat",
+    "name": "Herringbone Coat",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "16:218",
+      "16:221"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_jordan",
+    "name": "Jordan",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "12:838",
+      "12:871"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_margiela_rain_coat",
+    "name": "Margiela Rain Coat",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "16:193",
+      "16:196"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_red_plaid_coat",
+    "name": "Red Plaid Coat",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "17:348",
+      "17:351"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+    "name": "Uniqlo Fisherman Trench",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "17:295",
+      "17:298"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_white_coat",
+    "name": "White Coat",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "16:243",
+      "16:246"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_adidas_ozweego",
+    "name": "Adidas Ozweego",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "sport",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "2:328",
+      "2:331"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_adidas_samba",
+    "name": "Adidas Samba",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "6:192",
+      "6:195"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_dr_martens_boots",
+    "name": "Dr. Martens Boots",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "6:267",
+      "6:270"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_dr_martens_sandals",
+    "name": "Dr. Martens Sandals",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "7:323",
+      "7:326"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_dr_materns_clogs",
+    "name": "Dr. Materns Clogs",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "7:294",
+      "7:297"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_new_balance",
+    "name": "New Balance",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "6:242",
+      "6:245"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_nike_air_jordan",
+    "name": "Nike Air Jordan",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:130",
+      "5:133"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_nike_blazer",
+    "name": "Nike Blazer",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "1:153",
+      "2:147"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_nike_court_legacy",
+    "name": "Nike Court Legacy",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:111",
+      "5:114"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_nike_janoski",
+    "name": "Nike Janoski",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "7:354",
+      "7:357"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_nike_killshot",
+    "name": "Nike Killshot",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:148",
+      "5:151"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_vans_chicago",
+    "name": "Vans Chicago",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:166",
+      "5:169"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "shoes_shoes_vans_tall",
+    "name": "Vans Tall",
+    "type": "shoes",
+    "subtype": "shoes",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "6:217",
+      "6:220"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "top_dress_black_romper",
+    "name": "Black Romper",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:770",
+      "23:773"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_checkered_suit",
+    "name": "Checkered Suit",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "100:2611",
+      "100:2600"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_cheetah_dress",
+    "name": "Cheetah Dress",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:732",
+      "23:735"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_elegant_black_dress",
+    "name": "Elegant Black Dress",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:788",
+      "23:791"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_essentials_fear_of_god",
+    "name": "Essentials Fear of God",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:599",
+      "23:608"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_long_black_dress",
+    "name": "Long Black Dress",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:750",
+      "23:753"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_long_black_gap_dress",
+    "name": "Long Black Gap Dress",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:806",
+      "23:809"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_shirt_dress",
+    "name": "Shirt Dress",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:826",
+      "23:829"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_t_shirt_dress_black",
+    "name": "T-shirt Dress Black",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:648",
+      "23:651"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_t_shirt_dress_sage_green",
+    "name": "T-shirt Dress Sage Green",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:714",
+      "23:717"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_dress_t_shirt_dress_white",
+    "name": "T-shirt Dress White",
+    "type": "top",
+    "subtype": "dress",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:691",
+      "23:694"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_adidas_sweatshirt",
+    "name": "Adidas Sweatshirt",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:682",
+      "19:684"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_black_champion_hoodie",
+    "name": "Black Champion Hoodie",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:364",
+      "19:367"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_black_sweatshir_tripleten",
+    "name": "Black Sweatshir TripleTen",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:513",
+      "19:516"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_black_sweatshirt_hanes",
+    "name": "Black Sweatshirt Hanes",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:495",
+      "19:498"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_black_teddy_hoodie",
+    "name": "Black Teddy Hoodie",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:477",
+      "19:480"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_black_turtleneck",
+    "name": "Black Turtleneck",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:575",
+      "19:578"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_champion_white",
+    "name": "Champion White",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:593",
+      "19:596"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_cropped_black_sweatshirt",
+    "name": "Cropped Black Sweatshirt",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:703",
+      "19:706"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_green_and_white_sweater",
+    "name": "Green and White Sweater",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:652",
+      "19:655"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_green_sweatshirt_hanes",
+    "name": "Green Sweatshirt Hanes",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:536",
+      "19:539"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_grey_sweatshirt",
+    "name": "Grey Sweatshirt",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:557",
+      "19:560"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_hugo_boss_chicago_bulls",
+    "name": "Hugo Boss Chicago Bulls",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:421",
+      "19:424"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_jacquemus_black_hoodie",
+    "name": "Jacquemus Black Hoodie",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:439",
+      "19:442"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_long_black_dress_hoodie",
+    "name": "Long Black Dress Hoodie",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:459",
+      "19:462"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_nike_jordan_zip_hoodie",
+    "name": "Nike Jordan Zip Hoodie",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:401",
+      "19:404"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_nike_tennis_quarterzip",
+    "name": "Nike Tennis Quarterzip",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:382",
+      "19:385"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_pink_champion_hoodie",
+    "name": "Pink Champion Hoodie",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "17:384",
+      "17:387"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_south_pole_sweater",
+    "name": "South Pole Sweater",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:668",
+      "19:670"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_uniqlo_blue_sweater",
+    "name": "Uniqlo Blue Sweater",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:634",
+      "19:637"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_hoodie_sweater_uniqlo_green_sweater",
+    "name": "Uniqlo Green Sweater",
+    "type": "top",
+    "subtype": "hoodie_sweater",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:611",
+      "19:614"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_longsleeve_carhartt",
+    "name": "Carhartt",
+    "type": "top",
+    "subtype": "longsleeve",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:42",
+      "5:48"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_longsleeve_champion",
+    "name": "Champion",
+    "type": "top",
+    "subtype": "longsleeve",
+    "occasions": [
+      "casual",
+      "work",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:90",
+      "5:93"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_longsleeve_nike_money",
+    "name": "Nike Money",
+    "type": "top",
+    "subtype": "longsleeve",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:45",
+      "5:51"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_longsleeve_palace",
+    "name": "Palace",
+    "type": "top",
+    "subtype": "longsleeve",
+    "occasions": [
+      "casual",
+      "work",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "5:72",
+      "5:75"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_black_button_down",
+    "name": "Black Button Down",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:206",
+      "19:209"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_black_short_sleeve",
+    "name": "Black Short Sleeve",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:323",
+      "19:326"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_grey_button_down",
+    "name": "Grey Button Down",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:251",
+      "19:254"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_light_green_short_sleeve",
+    "name": "Light Green Short Sleeve",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:269",
+      "19:272"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_stripy_knit_shirt",
+    "name": "Stripy Knit Shirt",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "work",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "159:2619",
+      "159:2622"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_uniqlo_green",
+    "name": "Uniqlo Green",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "17:358",
+      "17:364"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_white_beach_shirt",
+    "name": "White Beach Shirt",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:341",
+      "19:344"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_shirt_white_button_down",
+    "name": "White Button Down",
+    "type": "top",
+    "subtype": "shirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "19:231",
+      "19:234"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_barcode",
+    "name": "Barcode",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:477",
+      "23:584"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_black_bra_top",
+    "name": "Black Bra Top",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "93:1266",
+      "93:1269"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_black_cropped",
+    "name": "Black Cropped",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:420",
+      "23:423"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_escher",
+    "name": "Escher",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:507",
+      "23:509"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_ethika",
+    "name": "Ethika",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:438",
+      "23:441"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_georgian_building",
+    "name": "Georgian Building",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:480"
+    ],
+    "active": true,
+    "figma_modes": [
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_kill_crew_blue",
+    "name": "Kill Crew Blue",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "1:103",
+      "2:69"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_new_balance_white",
+    "name": "New Balance White",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "22:329",
+      "22:332"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_nike_air_jordan",
+    "name": "Nike Air Jordan",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "2:257",
+      "2:260"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_nike_tee",
+    "name": "Nike Tee",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "22:349",
+      "22:352"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_north_face_gay",
+    "name": "North Face Gay",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:454",
+      "23:456"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_someoddpilot",
+    "name": "Someoddpilot",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:493",
+      "23:495"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_tanktop_black",
+    "name": "Tanktop Black",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "32:884",
+      "32:887"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_tripleten_black",
+    "name": "TripleTen Black",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "sport",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:528",
+      "23:530"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_tripleten_white",
+    "name": "TripleTen White",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "22:289",
+      "22:292"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_usa_green",
+    "name": "USA Green",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:542",
+      "23:544"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_white_wifebeater",
+    "name": "White Wifebeater",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "nice"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "32:902",
+      "32:905"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_zara_black",
+    "name": "Zara Black",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "23:402",
+      "23:405"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  },
+  {
+    "item_id": "top_tshirt_zara_white",
+    "name": "Zara White",
+    "type": "top",
+    "subtype": "tshirt",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "22:374",
+      "22:377"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "info"
+    ]
+  }
+]

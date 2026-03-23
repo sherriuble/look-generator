@@ -1,0 +1,582 @@
+{
+  "bottom_pants_adidas_sweatpants": {
+    "item_id": "bottom_pants_adidas_sweatpants",
+    "thumb": "assets/thumbs/bottom_pants_adidas_sweatpants.png",
+    "full": "assets/full/bottom_pants_adidas_sweatpants.png"
+  },
+  "bottom_pants_baggy_black_slacks": {
+    "item_id": "bottom_pants_baggy_black_slacks",
+    "thumb": "assets/thumbs/bottom_pants_baggy_black_slacks.png",
+    "full": "assets/full/bottom_pants_baggy_black_slacks.png"
+  },
+  "bottom_pants_black_dickies": {
+    "item_id": "bottom_pants_black_dickies",
+    "thumb": "assets/thumbs/bottom_pants_black_dickies.png",
+    "full": "assets/full/bottom_pants_black_dickies.png"
+  },
+  "bottom_pants_blue_wide": {
+    "item_id": "bottom_pants_blue_wide",
+    "thumb": "assets/thumbs/bottom_pants_blue_wide.png",
+    "full": "assets/full/bottom_pants_blue_wide.png"
+  },
+  "bottom_pants_grey_asos": {
+    "item_id": "bottom_pants_grey_asos",
+    "thumb": "assets/thumbs/bottom_pants_grey_asos.png",
+    "full": "assets/full/bottom_pants_grey_asos.png"
+  },
+  "bottom_pants_grey_slacks": {
+    "item_id": "bottom_pants_grey_slacks",
+    "thumb": "assets/thumbs/bottom_pants_grey_slacks.png",
+    "full": "assets/full/bottom_pants_grey_slacks.png"
+  },
+  "bottom_pants_leggins": {
+    "item_id": "bottom_pants_leggins",
+    "thumb": "assets/thumbs/bottom_pants_leggins.png",
+    "full": "assets/full/bottom_pants_leggins.png"
+  },
+  "bottom_pants_new_blue_wide_jeans": {
+    "item_id": "bottom_pants_new_blue_wide_jeans",
+    "thumb": "assets/thumbs/bottom_pants_new_blue_wide_jeans.png",
+    "full": "assets/full/bottom_pants_new_blue_wide_jeans.png"
+  },
+  "bottom_pants_nike_pro_sport_leggins": {
+    "item_id": "bottom_pants_nike_pro_sport_leggins",
+    "thumb": "assets/thumbs/bottom_pants_nike_pro_sport_leggins.png",
+    "full": "assets/full/bottom_pants_nike_pro_sport_leggins.png"
+  },
+  "bottom_pants_primark_green_pants": {
+    "item_id": "bottom_pants_primark_green_pants",
+    "thumb": "assets/thumbs/bottom_pants_primark_green_pants.png",
+    "full": "assets/full/bottom_pants_primark_green_pants.png"
+  },
+  "bottom_pants_primark_wool_pants": {
+    "item_id": "bottom_pants_primark_wool_pants",
+    "thumb": "assets/thumbs/bottom_pants_primark_wool_pants.png",
+    "full": "assets/full/bottom_pants_primark_wool_pants.png"
+  },
+  "bottom_pants_wide_chino": {
+    "item_id": "bottom_pants_wide_chino",
+    "thumb": "assets/thumbs/bottom_pants_wide_chino.png",
+    "full": "assets/full/bottom_pants_wide_chino.png"
+  },
+  "bottom_pants_wrangler": {
+    "item_id": "bottom_pants_wrangler",
+    "thumb": "assets/thumbs/bottom_pants_wrangler.png",
+    "full": "assets/full/bottom_pants_wrangler.png"
+  },
+  "bottom_pants_zebra": {
+    "item_id": "bottom_pants_zebra",
+    "thumb": "assets/thumbs/bottom_pants_zebra.png",
+    "full": "assets/full/bottom_pants_zebra.png"
+  },
+  "bottom_shorts_black_cotton_shorts": {
+    "item_id": "bottom_shorts_black_cotton_shorts",
+    "thumb": "assets/thumbs/bottom_shorts_black_cotton_shorts.png",
+    "full": "assets/full/bottom_shorts_black_cotton_shorts.png"
+  },
+  "bottom_shorts_black_denim_shorts": {
+    "item_id": "bottom_shorts_black_denim_shorts",
+    "thumb": "assets/thumbs/bottom_shorts_black_denim_shorts.png",
+    "full": "assets/full/bottom_shorts_black_denim_shorts.png"
+  },
+  "bottom_shorts_cycling_shorts": {
+    "item_id": "bottom_shorts_cycling_shorts",
+    "thumb": "assets/thumbs/bottom_shorts_cycling_shorts.png",
+    "full": "assets/full/bottom_shorts_cycling_shorts.png"
+  },
+  "bottom_shorts_dress_shorts": {
+    "item_id": "bottom_shorts_dress_shorts",
+    "thumb": "assets/thumbs/bottom_shorts_dress_shorts.png",
+    "full": "assets/full/bottom_shorts_dress_shorts.png"
+  },
+  "bottom_shorts_gramicci_shorts": {
+    "item_id": "bottom_shorts_gramicci_shorts",
+    "thumb": "assets/thumbs/bottom_shorts_gramicci_shorts.png",
+    "full": "assets/full/bottom_shorts_gramicci_shorts.png"
+  },
+  "bottom_shorts_kill_crew_green": {
+    "item_id": "bottom_shorts_kill_crew_green",
+    "thumb": "assets/thumbs/bottom_shorts_kill_crew_green.png",
+    "full": "assets/full/bottom_shorts_kill_crew_green.png"
+  },
+  "bottom_shorts_nike_everyone_watches_women_s_sport": {
+    "item_id": "bottom_shorts_nike_everyone_watches_women_s_sport",
+    "thumb": "assets/thumbs/bottom_shorts_nike_everyone_watches_women_s_sport.png",
+    "full": "assets/full/bottom_shorts_nike_everyone_watches_women_s_sport.png"
+  },
+  "bottom_shorts_wnbgay_shorts": {
+    "item_id": "bottom_shorts_wnbgay_shorts",
+    "thumb": "assets/thumbs/bottom_shorts_wnbgay_shorts.png",
+    "full": "assets/full/bottom_shorts_wnbgay_shorts.png"
+  },
+  "hat_hat_bart": {
+    "item_id": "hat_hat_bart",
+    "thumb": "assets/thumbs/hat_hat_bart.png",
+    "full": "assets/full/hat_hat_bart.png"
+  },
+  "hat_hat_beanie_black": {
+    "item_id": "hat_hat_beanie_black",
+    "thumb": "assets/thumbs/hat_hat_beanie_black.png",
+    "full": "assets/full/hat_hat_beanie_black.png"
+  },
+  "hat_hat_beanie_green": {
+    "item_id": "hat_hat_beanie_green",
+    "thumb": "assets/thumbs/hat_hat_beanie_green.png",
+    "full": "assets/full/hat_hat_beanie_green.png"
+  },
+  "hat_hat_beanie_red": {
+    "item_id": "hat_hat_beanie_red",
+    "thumb": "assets/thumbs/hat_hat_beanie_red.png",
+    "full": "assets/full/hat_hat_beanie_red.png"
+  },
+  "hat_hat_beanie_yellow": {
+    "item_id": "hat_hat_beanie_yellow",
+    "thumb": "assets/thumbs/hat_hat_beanie_yellow.png",
+    "full": "assets/full/hat_hat_beanie_yellow.png"
+  },
+  "hat_hat_cubs_green": {
+    "item_id": "hat_hat_cubs_green",
+    "thumb": "assets/thumbs/hat_hat_cubs_green.png",
+    "full": "assets/full/hat_hat_cubs_green.png"
+  },
+  "hat_hat_i_don_t_work_here": {
+    "item_id": "hat_hat_i_don_t_work_here",
+    "thumb": "assets/thumbs/hat_hat_i_don_t_work_here.png",
+    "full": "assets/full/hat_hat_i_don_t_work_here.png"
+  },
+  "hat_hat_la_black": {
+    "item_id": "hat_hat_la_black",
+    "thumb": "assets/thumbs/hat_hat_la_black.png",
+    "full": "assets/full/hat_hat_la_black.png"
+  },
+  "overlayer_jacket_coat_blazer_asos_big_trench": {
+    "item_id": "overlayer_jacket_coat_blazer_asos_big_trench",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_asos_big_trench.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_asos_big_trench.png"
+  },
+  "overlayer_jacket_coat_blazer_black_denim_jacket": {
+    "item_id": "overlayer_jacket_coat_blazer_black_denim_jacket",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_black_denim_jacket.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_black_denim_jacket.png"
+  },
+  "overlayer_jacket_coat_blazer_black_puffy_bomber": {
+    "item_id": "overlayer_jacket_coat_blazer_black_puffy_bomber",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_black_puffy_bomber.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_black_puffy_bomber.png"
+  },
+  "overlayer_jacket_coat_blazer_cheetah_blazer": {
+    "item_id": "overlayer_jacket_coat_blazer_cheetah_blazer",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_cheetah_blazer.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_cheetah_blazer.png"
+  },
+  "overlayer_jacket_coat_blazer_grey_blazer": {
+    "item_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_grey_blazer.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_grey_blazer.png"
+  },
+  "overlayer_jacket_coat_blazer_herringbone_coat": {
+    "item_id": "overlayer_jacket_coat_blazer_herringbone_coat",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_herringbone_coat.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_herringbone_coat.png"
+  },
+  "overlayer_jacket_coat_blazer_jordan": {
+    "item_id": "overlayer_jacket_coat_blazer_jordan",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_jordan.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_jordan.png"
+  },
+  "overlayer_jacket_coat_blazer_margiela_rain_coat": {
+    "item_id": "overlayer_jacket_coat_blazer_margiela_rain_coat",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_margiela_rain_coat.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_margiela_rain_coat.png"
+  },
+  "overlayer_jacket_coat_blazer_red_plaid_coat": {
+    "item_id": "overlayer_jacket_coat_blazer_red_plaid_coat",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_red_plaid_coat.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_red_plaid_coat.png"
+  },
+  "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench": {
+    "item_id": "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_uniqlo_fisherman_trench.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_uniqlo_fisherman_trench.png"
+  },
+  "overlayer_jacket_coat_blazer_white_coat": {
+    "item_id": "overlayer_jacket_coat_blazer_white_coat",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_white_coat.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_white_coat.png"
+  },
+  "shoes_shoes_adidas_ozweego": {
+    "item_id": "shoes_shoes_adidas_ozweego",
+    "thumb": "assets/thumbs/shoes_shoes_adidas_ozweego.png",
+    "full": "assets/full/shoes_shoes_adidas_ozweego.png"
+  },
+  "shoes_shoes_adidas_samba": {
+    "item_id": "shoes_shoes_adidas_samba",
+    "thumb": "assets/thumbs/shoes_shoes_adidas_samba.png",
+    "full": "assets/full/shoes_shoes_adidas_samba.png"
+  },
+  "shoes_shoes_dr_martens_boots": {
+    "item_id": "shoes_shoes_dr_martens_boots",
+    "thumb": "assets/thumbs/shoes_shoes_dr_martens_boots.png",
+    "full": "assets/full/shoes_shoes_dr_martens_boots.png"
+  },
+  "shoes_shoes_dr_martens_sandals": {
+    "item_id": "shoes_shoes_dr_martens_sandals",
+    "thumb": "assets/thumbs/shoes_shoes_dr_martens_sandals.png",
+    "full": "assets/full/shoes_shoes_dr_martens_sandals.png"
+  },
+  "shoes_shoes_dr_materns_clogs": {
+    "item_id": "shoes_shoes_dr_materns_clogs",
+    "thumb": "assets/thumbs/shoes_shoes_dr_materns_clogs.png",
+    "full": "assets/full/shoes_shoes_dr_materns_clogs.png"
+  },
+  "shoes_shoes_new_balance": {
+    "item_id": "shoes_shoes_new_balance",
+    "thumb": "assets/thumbs/shoes_shoes_new_balance.png",
+    "full": "assets/full/shoes_shoes_new_balance.png"
+  },
+  "shoes_shoes_nike_air_jordan": {
+    "item_id": "shoes_shoes_nike_air_jordan",
+    "thumb": "assets/thumbs/shoes_shoes_nike_air_jordan.png",
+    "full": "assets/full/shoes_shoes_nike_air_jordan.png"
+  },
+  "shoes_shoes_nike_blazer": {
+    "item_id": "shoes_shoes_nike_blazer",
+    "thumb": "assets/thumbs/shoes_shoes_nike_blazer.png",
+    "full": "assets/full/shoes_shoes_nike_blazer.png"
+  },
+  "shoes_shoes_nike_court_legacy": {
+    "item_id": "shoes_shoes_nike_court_legacy",
+    "thumb": "assets/thumbs/shoes_shoes_nike_court_legacy.png",
+    "full": "assets/full/shoes_shoes_nike_court_legacy.png"
+  },
+  "shoes_shoes_nike_janoski": {
+    "item_id": "shoes_shoes_nike_janoski",
+    "thumb": "assets/thumbs/shoes_shoes_nike_janoski.png",
+    "full": "assets/full/shoes_shoes_nike_janoski.png"
+  },
+  "shoes_shoes_nike_killshot": {
+    "item_id": "shoes_shoes_nike_killshot",
+    "thumb": "assets/thumbs/shoes_shoes_nike_killshot.png",
+    "full": "assets/full/shoes_shoes_nike_killshot.png"
+  },
+  "shoes_shoes_vans_chicago": {
+    "item_id": "shoes_shoes_vans_chicago",
+    "thumb": "assets/thumbs/shoes_shoes_vans_chicago.png",
+    "full": "assets/full/shoes_shoes_vans_chicago.png"
+  },
+  "shoes_shoes_vans_tall": {
+    "item_id": "shoes_shoes_vans_tall",
+    "thumb": "assets/thumbs/shoes_shoes_vans_tall.png",
+    "full": "assets/full/shoes_shoes_vans_tall.png"
+  },
+  "top_dress_black_romper": {
+    "item_id": "top_dress_black_romper",
+    "thumb": "assets/thumbs/top_dress_black_romper.png",
+    "full": "assets/full/top_dress_black_romper.png"
+  },
+  "top_dress_checkered_suit": {
+    "item_id": "top_dress_checkered_suit",
+    "thumb": "assets/thumbs/top_dress_checkered_suit.png",
+    "full": "assets/full/top_dress_checkered_suit.png"
+  },
+  "top_dress_cheetah_dress": {
+    "item_id": "top_dress_cheetah_dress",
+    "thumb": "assets/thumbs/top_dress_cheetah_dress.png",
+    "full": "assets/full/top_dress_cheetah_dress.png"
+  },
+  "top_dress_elegant_black_dress": {
+    "item_id": "top_dress_elegant_black_dress",
+    "thumb": "assets/thumbs/top_dress_elegant_black_dress.png",
+    "full": "assets/full/top_dress_elegant_black_dress.png"
+  },
+  "top_dress_essentials_fear_of_god": {
+    "item_id": "top_dress_essentials_fear_of_god",
+    "thumb": "assets/thumbs/top_dress_essentials_fear_of_god.png",
+    "full": "assets/full/top_dress_essentials_fear_of_god.png"
+  },
+  "top_dress_long_black_dress": {
+    "item_id": "top_dress_long_black_dress",
+    "thumb": "assets/thumbs/top_dress_long_black_dress.png",
+    "full": "assets/full/top_dress_long_black_dress.png"
+  },
+  "top_dress_long_black_gap_dress": {
+    "item_id": "top_dress_long_black_gap_dress",
+    "thumb": "assets/thumbs/top_dress_long_black_gap_dress.png",
+    "full": "assets/full/top_dress_long_black_gap_dress.png"
+  },
+  "top_dress_shirt_dress": {
+    "item_id": "top_dress_shirt_dress",
+    "thumb": "assets/thumbs/top_dress_shirt_dress.png",
+    "full": "assets/full/top_dress_shirt_dress.png"
+  },
+  "top_dress_t_shirt_dress_black": {
+    "item_id": "top_dress_t_shirt_dress_black",
+    "thumb": "assets/thumbs/top_dress_t_shirt_dress_black.png",
+    "full": "assets/full/top_dress_t_shirt_dress_black.png"
+  },
+  "top_dress_t_shirt_dress_sage_green": {
+    "item_id": "top_dress_t_shirt_dress_sage_green",
+    "thumb": "assets/thumbs/top_dress_t_shirt_dress_sage_green.png",
+    "full": "assets/full/top_dress_t_shirt_dress_sage_green.png"
+  },
+  "top_dress_t_shirt_dress_white": {
+    "item_id": "top_dress_t_shirt_dress_white",
+    "thumb": "assets/thumbs/top_dress_t_shirt_dress_white.png",
+    "full": "assets/full/top_dress_t_shirt_dress_white.png"
+  },
+  "top_hoodie_sweater_adidas_sweatshirt": {
+    "item_id": "top_hoodie_sweater_adidas_sweatshirt",
+    "thumb": "assets/thumbs/top_hoodie_sweater_adidas_sweatshirt.png",
+    "full": "assets/full/top_hoodie_sweater_adidas_sweatshirt.png"
+  },
+  "top_hoodie_sweater_black_champion_hoodie": {
+    "item_id": "top_hoodie_sweater_black_champion_hoodie",
+    "thumb": "assets/thumbs/top_hoodie_sweater_black_champion_hoodie.png",
+    "full": "assets/full/top_hoodie_sweater_black_champion_hoodie.png"
+  },
+  "top_hoodie_sweater_black_sweatshir_tripleten": {
+    "item_id": "top_hoodie_sweater_black_sweatshir_tripleten",
+    "thumb": "assets/thumbs/top_hoodie_sweater_black_sweatshir_tripleten.png",
+    "full": "assets/full/top_hoodie_sweater_black_sweatshir_tripleten.png"
+  },
+  "top_hoodie_sweater_black_sweatshirt_hanes": {
+    "item_id": "top_hoodie_sweater_black_sweatshirt_hanes",
+    "thumb": "assets/thumbs/top_hoodie_sweater_black_sweatshirt_hanes.png",
+    "full": "assets/full/top_hoodie_sweater_black_sweatshirt_hanes.png"
+  },
+  "top_hoodie_sweater_black_teddy_hoodie": {
+    "item_id": "top_hoodie_sweater_black_teddy_hoodie",
+    "thumb": "assets/thumbs/top_hoodie_sweater_black_teddy_hoodie.png",
+    "full": "assets/full/top_hoodie_sweater_black_teddy_hoodie.png"
+  },
+  "top_hoodie_sweater_black_turtleneck": {
+    "item_id": "top_hoodie_sweater_black_turtleneck",
+    "thumb": "assets/thumbs/top_hoodie_sweater_black_turtleneck.png",
+    "full": "assets/full/top_hoodie_sweater_black_turtleneck.png"
+  },
+  "top_hoodie_sweater_champion_white": {
+    "item_id": "top_hoodie_sweater_champion_white",
+    "thumb": "assets/thumbs/top_hoodie_sweater_champion_white.png",
+    "full": "assets/full/top_hoodie_sweater_champion_white.png"
+  },
+  "top_hoodie_sweater_cropped_black_sweatshirt": {
+    "item_id": "top_hoodie_sweater_cropped_black_sweatshirt",
+    "thumb": "assets/thumbs/top_hoodie_sweater_cropped_black_sweatshirt.png",
+    "full": "assets/full/top_hoodie_sweater_cropped_black_sweatshirt.png"
+  },
+  "top_hoodie_sweater_green_and_white_sweater": {
+    "item_id": "top_hoodie_sweater_green_and_white_sweater",
+    "thumb": "assets/thumbs/top_hoodie_sweater_green_and_white_sweater.png",
+    "full": "assets/full/top_hoodie_sweater_green_and_white_sweater.png"
+  },
+  "top_hoodie_sweater_green_sweatshirt_hanes": {
+    "item_id": "top_hoodie_sweater_green_sweatshirt_hanes",
+    "thumb": "assets/thumbs/top_hoodie_sweater_green_sweatshirt_hanes.png",
+    "full": "assets/full/top_hoodie_sweater_green_sweatshirt_hanes.png"
+  },
+  "top_hoodie_sweater_grey_sweatshirt": {
+    "item_id": "top_hoodie_sweater_grey_sweatshirt",
+    "thumb": "assets/thumbs/top_hoodie_sweater_grey_sweatshirt.png",
+    "full": "assets/full/top_hoodie_sweater_grey_sweatshirt.png"
+  },
+  "top_hoodie_sweater_hugo_boss_chicago_bulls": {
+    "item_id": "top_hoodie_sweater_hugo_boss_chicago_bulls",
+    "thumb": "assets/thumbs/top_hoodie_sweater_hugo_boss_chicago_bulls.png",
+    "full": "assets/full/top_hoodie_sweater_hugo_boss_chicago_bulls.png"
+  },
+  "top_hoodie_sweater_jacquemus_black_hoodie": {
+    "item_id": "top_hoodie_sweater_jacquemus_black_hoodie",
+    "thumb": "assets/thumbs/top_hoodie_sweater_jacquemus_black_hoodie.png",
+    "full": "assets/full/top_hoodie_sweater_jacquemus_black_hoodie.png"
+  },
+  "top_hoodie_sweater_long_black_dress_hoodie": {
+    "item_id": "top_hoodie_sweater_long_black_dress_hoodie",
+    "thumb": "assets/thumbs/top_hoodie_sweater_long_black_dress_hoodie.png",
+    "full": "assets/full/top_hoodie_sweater_long_black_dress_hoodie.png"
+  },
+  "top_hoodie_sweater_nike_jordan_zip_hoodie": {
+    "item_id": "top_hoodie_sweater_nike_jordan_zip_hoodie",
+    "thumb": "assets/thumbs/top_hoodie_sweater_nike_jordan_zip_hoodie.png",
+    "full": "assets/full/top_hoodie_sweater_nike_jordan_zip_hoodie.png"
+  },
+  "top_hoodie_sweater_nike_tennis_quarterzip": {
+    "item_id": "top_hoodie_sweater_nike_tennis_quarterzip",
+    "thumb": "assets/thumbs/top_hoodie_sweater_nike_tennis_quarterzip.png",
+    "full": "assets/full/top_hoodie_sweater_nike_tennis_quarterzip.png"
+  },
+  "top_hoodie_sweater_pink_champion_hoodie": {
+    "item_id": "top_hoodie_sweater_pink_champion_hoodie",
+    "thumb": "assets/thumbs/top_hoodie_sweater_pink_champion_hoodie.png",
+    "full": "assets/full/top_hoodie_sweater_pink_champion_hoodie.png"
+  },
+  "top_hoodie_sweater_south_pole_sweater": {
+    "item_id": "top_hoodie_sweater_south_pole_sweater",
+    "thumb": "assets/thumbs/top_hoodie_sweater_south_pole_sweater.png",
+    "full": "assets/full/top_hoodie_sweater_south_pole_sweater.png"
+  },
+  "top_hoodie_sweater_uniqlo_blue_sweater": {
+    "item_id": "top_hoodie_sweater_uniqlo_blue_sweater",
+    "thumb": "assets/thumbs/top_hoodie_sweater_uniqlo_blue_sweater.png",
+    "full": "assets/full/top_hoodie_sweater_uniqlo_blue_sweater.png"
+  },
+  "top_hoodie_sweater_uniqlo_green_sweater": {
+    "item_id": "top_hoodie_sweater_uniqlo_green_sweater",
+    "thumb": "assets/thumbs/top_hoodie_sweater_uniqlo_green_sweater.png",
+    "full": "assets/full/top_hoodie_sweater_uniqlo_green_sweater.png"
+  },
+  "top_longsleeve_carhartt": {
+    "item_id": "top_longsleeve_carhartt",
+    "thumb": "assets/thumbs/top_longsleeve_carhartt.png",
+    "full": "assets/full/top_longsleeve_carhartt.png"
+  },
+  "top_longsleeve_champion": {
+    "item_id": "top_longsleeve_champion",
+    "thumb": "assets/thumbs/top_longsleeve_champion.png",
+    "full": "assets/full/top_longsleeve_champion.png"
+  },
+  "top_longsleeve_nike_money": {
+    "item_id": "top_longsleeve_nike_money",
+    "thumb": "assets/thumbs/top_longsleeve_nike_money.png",
+    "full": "assets/full/top_longsleeve_nike_money.png"
+  },
+  "top_longsleeve_palace": {
+    "item_id": "top_longsleeve_palace",
+    "thumb": "assets/thumbs/top_longsleeve_palace.png",
+    "full": "assets/full/top_longsleeve_palace.png"
+  },
+  "top_shirt_black_button_down": {
+    "item_id": "top_shirt_black_button_down",
+    "thumb": "assets/thumbs/top_shirt_black_button_down.png",
+    "full": "assets/full/top_shirt_black_button_down.png"
+  },
+  "top_shirt_black_short_sleeve": {
+    "item_id": "top_shirt_black_short_sleeve",
+    "thumb": "assets/thumbs/top_shirt_black_short_sleeve.png",
+    "full": "assets/full/top_shirt_black_short_sleeve.png"
+  },
+  "top_shirt_grey_button_down": {
+    "item_id": "top_shirt_grey_button_down",
+    "thumb": "assets/thumbs/top_shirt_grey_button_down.png",
+    "full": "assets/full/top_shirt_grey_button_down.png"
+  },
+  "top_shirt_light_green_short_sleeve": {
+    "item_id": "top_shirt_light_green_short_sleeve",
+    "thumb": "assets/thumbs/top_shirt_light_green_short_sleeve.png",
+    "full": "assets/full/top_shirt_light_green_short_sleeve.png"
+  },
+  "top_shirt_stripy_knit_shirt": {
+    "item_id": "top_shirt_stripy_knit_shirt",
+    "thumb": "assets/thumbs/top_shirt_stripy_knit_shirt.png",
+    "full": "assets/full/top_shirt_stripy_knit_shirt.png"
+  },
+  "top_shirt_uniqlo_green": {
+    "item_id": "top_shirt_uniqlo_green",
+    "thumb": "assets/thumbs/top_shirt_uniqlo_green.png",
+    "full": "assets/full/top_shirt_uniqlo_green.png"
+  },
+  "top_shirt_white_beach_shirt": {
+    "item_id": "top_shirt_white_beach_shirt",
+    "thumb": "assets/thumbs/top_shirt_white_beach_shirt.png",
+    "full": "assets/full/top_shirt_white_beach_shirt.png"
+  },
+  "top_shirt_white_button_down": {
+    "item_id": "top_shirt_white_button_down",
+    "thumb": "assets/thumbs/top_shirt_white_button_down.png",
+    "full": "assets/full/top_shirt_white_button_down.png"
+  },
+  "top_tshirt_barcode": {
+    "item_id": "top_tshirt_barcode",
+    "thumb": "assets/thumbs/top_tshirt_barcode.png",
+    "full": "assets/full/top_tshirt_barcode.png"
+  },
+  "top_tshirt_black_bra_top": {
+    "item_id": "top_tshirt_black_bra_top",
+    "thumb": "assets/thumbs/top_tshirt_black_bra_top.png",
+    "full": "assets/full/top_tshirt_black_bra_top.png"
+  },
+  "top_tshirt_black_cropped": {
+    "item_id": "top_tshirt_black_cropped",
+    "thumb": "assets/thumbs/top_tshirt_black_cropped.png",
+    "full": "assets/full/top_tshirt_black_cropped.png"
+  },
+  "top_tshirt_escher": {
+    "item_id": "top_tshirt_escher",
+    "thumb": "assets/thumbs/top_tshirt_escher.png",
+    "full": "assets/full/top_tshirt_escher.png"
+  },
+  "top_tshirt_ethika": {
+    "item_id": "top_tshirt_ethika",
+    "thumb": "assets/thumbs/top_tshirt_ethika.png",
+    "full": "assets/full/top_tshirt_ethika.png"
+  },
+  "top_tshirt_georgian_building": {
+    "item_id": "top_tshirt_georgian_building",
+    "thumb": "assets/thumbs/top_tshirt_georgian_building.png",
+    "full": "assets/full/top_tshirt_georgian_building.png"
+  },
+  "top_tshirt_kill_crew_blue": {
+    "item_id": "top_tshirt_kill_crew_blue",
+    "thumb": "assets/thumbs/top_tshirt_kill_crew_blue.png",
+    "full": "assets/full/top_tshirt_kill_crew_blue.png"
+  },
+  "top_tshirt_new_balance_white": {
+    "item_id": "top_tshirt_new_balance_white",
+    "thumb": "assets/thumbs/top_tshirt_new_balance_white.png",
+    "full": "assets/full/top_tshirt_new_balance_white.png"
+  },
+  "top_tshirt_nike_air_jordan": {
+    "item_id": "top_tshirt_nike_air_jordan",
+    "thumb": "assets/thumbs/top_tshirt_nike_air_jordan.png",
+    "full": "assets/full/top_tshirt_nike_air_jordan.png"
+  },
+  "top_tshirt_nike_tee": {
+    "item_id": "top_tshirt_nike_tee",
+    "thumb": "assets/thumbs/top_tshirt_nike_tee.png",
+    "full": "assets/full/top_tshirt_nike_tee.png"
+  },
+  "top_tshirt_north_face_gay": {
+    "item_id": "top_tshirt_north_face_gay",
+    "thumb": "assets/thumbs/top_tshirt_north_face_gay.png",
+    "full": "assets/full/top_tshirt_north_face_gay.png"
+  },
+  "top_tshirt_someoddpilot": {
+    "item_id": "top_tshirt_someoddpilot",
+    "thumb": "assets/thumbs/top_tshirt_someoddpilot.png",
+    "full": "assets/full/top_tshirt_someoddpilot.png"
+  },
+  "top_tshirt_tanktop_black": {
+    "item_id": "top_tshirt_tanktop_black",
+    "thumb": "assets/thumbs/top_tshirt_tanktop_black.png",
+    "full": "assets/full/top_tshirt_tanktop_black.png"
+  },
+  "top_tshirt_tripleten_black": {
+    "item_id": "top_tshirt_tripleten_black",
+    "thumb": "assets/thumbs/top_tshirt_tripleten_black.png",
+    "full": "assets/full/top_tshirt_tripleten_black.png"
+  },
+  "top_tshirt_tripleten_white": {
+    "item_id": "top_tshirt_tripleten_white",
+    "thumb": "assets/thumbs/top_tshirt_tripleten_white.png",
+    "full": "assets/full/top_tshirt_tripleten_white.png"
+  },
+  "top_tshirt_usa_green": {
+    "item_id": "top_tshirt_usa_green",
+    "thumb": "assets/thumbs/top_tshirt_usa_green.png",
+    "full": "assets/full/top_tshirt_usa_green.png"
+  },
+  "top_tshirt_white_wifebeater": {
+    "item_id": "top_tshirt_white_wifebeater",
+    "thumb": "assets/thumbs/top_tshirt_white_wifebeater.png",
+    "full": "assets/full/top_tshirt_white_wifebeater.png"
+  },
+  "top_tshirt_zara_black": {
+    "item_id": "top_tshirt_zara_black",
+    "thumb": "assets/thumbs/top_tshirt_zara_black.png",
+    "full": "assets/full/top_tshirt_zara_black.png"
+  },
+  "top_tshirt_zara_white": {
+    "item_id": "top_tshirt_zara_white",
+    "thumb": "assets/thumbs/top_tshirt_zara_white.png",
+    "full": "assets/full/top_tshirt_zara_white.png"
+  }
+}

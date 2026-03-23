@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wardrobe Generator</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="topbar">
+        <h1>Outfit Generator</h1>
+        <button id="manageBtn" class="ghost-btn" type="button" title="Manage (coming soon)">Manage</button>
+      </header>
+
+      <section class="picker-section">
+        <h2>Weather</h2>
+        <div id="weatherGrid" class="weather-grid"></div>
+      </section>
+
+      <section class="picker-section">
+        <h2>Occasion</h2>
+        <div id="occasionGrid" class="occasion-grid"></div>
+      </section>
+
+      <section class="actions">
+        <label class="checkbox">
+          <input id="preferLayers" type="checkbox" checked />
+          Prefer layered looks
+        </label>
+        <button id="generate" class="primary-btn" type="button">Generate Look</button>
+      </section>
+
+      <section id="result" class="result hidden"></section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+  </html>

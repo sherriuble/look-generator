@@ -1,0 +1,93 @@
+[
+  {
+    "cluster_id": "cluster_top_001",
+    "cluster_name": "Top cluster 1",
+    "type": "top",
+    "member_item_ids": [
+      "top_hoodie_sweater_black_champion_hoodie",
+      "top_hoodie_sweater_black_sweatshirt_hanes",
+      "top_hoodie_sweater_black_teddy_hoodie",
+      "top_hoodie_sweater_green_sweatshirt_hanes",
+      "top_hoodie_sweater_nike_jordan_zip_hoodie"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_002",
+    "cluster_name": "Top cluster 2",
+    "type": "top",
+    "member_item_ids": [
+      "top_hoodie_sweater_black_sweatshir_tripleten",
+      "top_hoodie_sweater_black_sweatshirt_hanes"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_003",
+    "cluster_name": "Top cluster 3",
+    "type": "top",
+    "member_item_ids": [
+      "top_hoodie_sweater_black_champion_hoodie",
+      "top_hoodie_sweater_black_sweatshirt_hanes",
+      "top_hoodie_sweater_green_sweatshirt_hanes",
+      "top_hoodie_sweater_nike_jordan_zip_hoodie"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_004",
+    "cluster_name": "Top cluster 4",
+    "type": "top",
+    "member_item_ids": [
+      "top_hoodie_sweater_black_sweatshir_tripleten",
+      "top_hoodie_sweater_black_sweatshirt_hanes",
+      "top_hoodie_sweater_black_teddy_hoodie",
+      "top_hoodie_sweater_nike_jordan_zip_hoodie"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_005",
+    "cluster_name": "Top cluster 5",
+    "type": "top",
+    "member_item_ids": [
+      "top_longsleeve_carhartt",
+      "top_longsleeve_palace"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_006",
+    "cluster_name": "Top cluster 6",
+    "type": "top",
+    "member_item_ids": [
+      "top_tshirt_escher",
+      "top_tshirt_ethika",
+      "top_tshirt_north_face_gay",
+      "top_tshirt_someoddpilot",
+      "top_tshirt_tripleten_black"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_007",
+    "cluster_name": "Top cluster 7",
+    "type": "top",
+    "member_item_ids": [
+      "top_tshirt_barcode",
+      "top_tshirt_nike_air_jordan"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  },
+  {
+    "cluster_id": "cluster_top_008",
+    "cluster_name": "Top cluster 8",
+    "type": "top",
+    "member_item_ids": [
+      "top_tshirt_escher",
+      "top_tshirt_someoddpilot",
+      "top_tshirt_tripleten_black"
+    ],
+    "notes": "Auto-extracted from grouped top entries in Looks."
+  }
+]

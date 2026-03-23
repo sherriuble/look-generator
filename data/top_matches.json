@@ -1,0 +1,3083 @@
+[
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_002",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee",
+      "top_tshirt_ethika",
+      "top_tshirt_escher"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_adidas_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_black_teddy_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_champion_white",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_cropped_black_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_green_and_white_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_green",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_green_sweatshirt_hanes",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tripleten_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_grey_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_primark_wool_pants",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_shirt_white_button_down"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_hugo_boss_chicago_bulls",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_black_dickies",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_longsleeve_palace"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_jacquemus_black_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_long_black_dress_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_leggins"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_black",
+      "hat_hat_beanie_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_nike_jordan_zip_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_janoski"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee",
+      "top_longsleeve_palace"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_nike_tennis_quarterzip",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_yellow"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_pink_champion_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_south_pole_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_green",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_uniqlo_blue_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_shirt_white_button_down",
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_uniqlo_green_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_longsleeve_palace",
+      "top_tshirt_zara_white",
+      "top_tshirt_zara_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_champion",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_janoski"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_nike_money",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_someoddpilot"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_uniqlo_green",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater",
+      "top_tshirt_zara_white",
+      "top_tshirt_zara_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_hoodie_sweater_black_turtleneck"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_long_black_dress",
+    "weather_bucket": "cold",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_grey_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [
+      "hat_hat_bart"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_uniqlo_green_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_button_down",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [
+      "hat_hat_bart"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_001",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_blue_wide",
+      "bottom_pants_wide_chino",
+      "bottom_pants_adidas_sweatpants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_ozweego",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee",
+      "top_tshirt_ethika",
+      "top_tshirt_escher"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_jordan",
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_pink_champion_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_blue_wide"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_adidas_ozweego"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black",
+      "hat_hat_beanie_green"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_002",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee",
+      "top_tshirt_ethika",
+      "top_tshirt_escher"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_adidas_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_black_teddy_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_cropped_black_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_green_and_white_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_green",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_green_sweatshirt_hanes",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_yellow"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_grey_sweatshirt",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_primark_wool_pants",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_shirt_white_button_down"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_jacquemus_black_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_long_black_dress_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_leggins"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_black",
+      "hat_hat_beanie_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_nike_jordan_zip_hoodie",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_janoski"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee",
+      "top_longsleeve_palace"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_nike_tennis_quarterzip",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_beanie_green",
+      "hat_hat_beanie_yellow"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_puffy_bomber",
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_south_pole_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_beanie_green",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_uniqlo_blue_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_new_blue_wide_jeans",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_shirt_white_button_down",
+      "top_tshirt_new_balance_white"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_uniqlo_green_sweater",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_primark_wool_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_longsleeve_palace",
+      "top_tshirt_zara_white",
+      "top_tshirt_zara_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_white_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_uniqlo_green",
+    "weather_bucket": "cold",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater",
+      "top_tshirt_zara_white",
+      "top_tshirt_zara_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_herringbone_coat",
+      "overlayer_jacket_coat_blazer_black_puffy_bomber"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_007",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_vans_chicago",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_008",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_grey_asos",
+      "bottom_pants_zebra"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_janoski",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_checkered_suit",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_essentials_fear_of_god",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_cycling_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_t_shirt_dress_black",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_cycling_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_t_shirt_dress_sage_green",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_cycling_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_t_shirt_dress_white",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_cycling_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_champion",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_vans_chicago",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_shorts_gramicci_shorts",
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_short_sleeve",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_light_green_short_sleeve",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_stripy_knit_shirt",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_shorts_gramicci_shorts",
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_black_cropped",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_zebra"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_kill_crew_blue",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_primark_green_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_black_bra_top",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_tanktop_black",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_shorts_gramicci_shorts",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_primark_green_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_usa_green",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_dress_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_cheetah_dress",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_elegant_black_dress",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_long_black_gap_dress",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_shirt_dress",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_martens_sandals"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_short_sleeve",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_button_down",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_black_cropped",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_006",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_nike_everyone_watches_women_s_sport",
+      "bottom_shorts_kill_crew_green",
+      "bottom_shorts_black_cotton_shorts",
+      "bottom_shorts_cycling_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_adidas_ozweego",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_carhartt",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_nike_everyone_watches_women_s_sport",
+      "bottom_shorts_kill_crew_green",
+      "bottom_shorts_black_cotton_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_adidas_ozweego",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_beach_shirt",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_nike_everyone_watches_women_s_sport",
+      "bottom_shorts_cycling_shorts",
+      "bottom_shorts_black_cotton_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_ozweego"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_kill_crew_blue",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_cycling_shorts",
+      "bottom_shorts_kill_crew_green",
+      "bottom_shorts_nike_everyone_watches_women_s_sport"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_adidas_ozweego",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_nike_air_jordan",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_cycling_shorts",
+      "bottom_shorts_kill_crew_green",
+      "bottom_shorts_black_cotton_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_adidas_ozweego",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_dress_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_checkered_suit",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_shirt_dress",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_short_sleeve",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_stripy_knit_shirt",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_button_down",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_black_cropped",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_grey_asos",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_janoski",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_vans_chicago"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_zara_black",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_tshirt_zara_white",
+    "weather_bucket": "hot_warm",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_vans_chicago"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_004",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_blue_wide",
+      "bottom_pants_black_dickies",
+      "bottom_pants_wide_chino",
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tripleten_white",
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_denim_jacket",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_005",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_asos",
+      "bottom_pants_wrangler",
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_vans_chicago",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_cubs_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_cheetah_blazer",
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_cheetah_blazer",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_vans_tall"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_longsleeve_carhartt",
+      "top_longsleeve_palace"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_black_dickies",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_dr_martens_boots",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater",
+      "top_hoodie_sweater_black_turtleneck"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_adidas_sweatshirt",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_zebra",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_court_legacy"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_champion_white",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_court_legacy"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_grey_sweatshirt",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_vans_chicago",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_hugo_boss_chicago_bulls",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_black_dickies",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_killshot"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_red_plaid_coat",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_black_denim_jacket"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_jacquemus_black_hoodie",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_black_denim_jacket"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_long_black_dress_hoodie",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_leggins"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_nike_tennis_quarterzip",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos",
+      "bottom_pants_black_dickies",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_pink_champion_hoodie",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_champion",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_janoski"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_red_plaid_coat",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_nike_money",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_blazer"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_someoddpilot"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_palace",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_primark_green_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_denim_jacket",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_grey_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_uniqlo_green",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_primark_green_pants"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "casual"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_hoodie_sweater_black_turtleneck"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_dress_long_black_dress",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_grey_sweatshirt",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [
+      "hat_hat_bart"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_uniqlo_green_sweater",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_grey_slacks",
+      "bottom_pants_wrangler",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_dr_martens_boots"
+    ],
+    "hat_ids": [
+      "hat_hat_bart"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "nice"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_003",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_nike_everyone_watches_women_s_sport",
+      "bottom_shorts_kill_crew_green",
+      "bottom_shorts_black_cotton_shorts",
+      "bottom_pants_blue_wide"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_ozweego",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_champion_white",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_black_cotton_shorts",
+      "bottom_shorts_nike_everyone_watches_women_s_sport",
+      "bottom_pants_blue_wide",
+      "bottom_pants_nike_pro_sport_leggins"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_adidas_ozweego"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_cubs_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_carhartt",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_black_cotton_shorts",
+      "bottom_pants_blue_wide"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_adidas_ozweego"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "sport"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_004",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_blue_wide",
+      "bottom_pants_black_dickies",
+      "bottom_pants_wide_chino",
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_cubs_green",
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tripleten_white",
+      "top_tshirt_new_balance_white",
+      "top_tshirt_nike_tee"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_denim_jacket",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "cluster",
+    "source_id": "cluster_top_005",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_grey_asos",
+      "bottom_pants_wrangler",
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_vans_chicago",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_i_don_t_work_here",
+      "hat_hat_cubs_green"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_cheetah_blazer",
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "overlayer_jacket_coat_blazer_grey_blazer",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_shorts_black_denim_shorts",
+      "bottom_pants_black_dickies",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_dr_martens_boots",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater",
+      "top_hoodie_sweater_black_turtleneck"
+    ],
+    "overlayer_ids": [],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_adidas_sweatshirt",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_zebra",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_air_jordan",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_court_legacy"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_grey_sweatshirt",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_primark_green_pants",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_vans_chicago",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_jacquemus_black_hoodie",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_adidas_samba",
+      "shoes_shoes_new_balance"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench",
+      "overlayer_jacket_coat_blazer_black_denim_jacket"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_long_black_dress_hoodie",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_leggins"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_air_jordan"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black",
+      "hat_hat_beanie_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_hoodie_sweater_nike_tennis_quarterzip",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_asos",
+      "bottom_pants_black_dickies",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_new_balance",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_red_plaid_coat"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_longsleeve_champion",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_new_blue_wide_jeans"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_court_legacy",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_janoski"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_red_plaid_coat",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_black_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_grey_asos"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_new_balance",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black",
+      "top_tshirt_white_wifebeater"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_black_denim_jacket",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_grey_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_uniqlo_green",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_wrangler",
+      "bottom_pants_black_dickies"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_blazer",
+      "shoes_shoes_dr_materns_clogs"
+    ],
+    "hat_ids": [
+      "hat_hat_la_black"
+    ],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  },
+  {
+    "source_kind": "item",
+    "source_id": "top_shirt_white_button_down",
+    "weather_bucket": "pleasant_chilly",
+    "bottom_ids": [
+      "bottom_pants_black_dickies",
+      "bottom_pants_wrangler",
+      "bottom_pants_grey_slacks",
+      "bottom_pants_baggy_black_slacks"
+    ],
+    "shoes_ids": [
+      "shoes_shoes_nike_killshot",
+      "shoes_shoes_dr_materns_clogs",
+      "shoes_shoes_vans_tall",
+      "shoes_shoes_adidas_samba"
+    ],
+    "hat_ids": [],
+    "underlayer_ids": [
+      "top_tshirt_tanktop_black"
+    ],
+    "overlayer_ids": [
+      "overlayer_jacket_coat_blazer_asos_big_trench",
+      "overlayer_jacket_coat_blazer_uniqlo_fisherman_trench"
+    ],
+    "priority": 1,
+    "occasion": "work"
+  }
+]
