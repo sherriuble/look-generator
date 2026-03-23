@@ -152,7 +152,7 @@ label.checkbox input {
   margin-top: 20px;
   display: grid;
   gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
 }
 
 .card {
@@ -195,6 +195,9 @@ label.checkbox input {
   }
   .occasion-grid {
     grid-template-columns: repeat(2, minmax(120px, 1fr));
+  }
+  .result {
+    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
   }
   .topbar h1 {
     font-size: 26px;
