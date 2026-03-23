@@ -142,9 +142,18 @@ function formatItem(itemId) {
 }
 
 function chooseMatch(weather, occasion, layerMode) {
+  const isDressMatch = (m) => {
+    const topIds = m.source_kind === "item" ? [m.source_id] : db.clusterIndex[m.source_id]?.member_item_ids || [];
+    return topIds.some((id) => db.itemIndex[id]?.subtype === "dress");
+  };
+
   const candidates = db.topMatches
     .filter((m) => m.weather_bucket === weather && m.occasion === occasion)
-    .filter((m) => (m.bottom_ids || []).length > 0 && (m.shoes_ids || []).length > 0)
+    .filter((m) => {
+      const hasShoes = (m.shoes_ids || []).length > 0;
+      const hasBottoms = (m.bottom_ids || []).length > 0;
+      return hasShoes && (hasBottoms || isDressMatch(m));
+    })
     .map((m) => ({
       ...m,
       match_key: `${m.weather_bucket}|${m.occasion}|${m.source_kind}|${m.source_id}`,
@@ -184,7 +193,7 @@ function generateLocal(weather, occasion, layerMode) {
     weather,
     occasion,
     top: formatItem(randomPick(topIds)),
-    bottom: formatItem(randomPick(selected.bottom_ids)),
+    bottom: selected.bottom_ids?.length ? formatItem(randomPick(selected.bottom_ids)) : null,
     shoes: formatItem(randomPick(selected.shoes_ids)),
     hat: selected.hat_ids?.length ? formatItem(randomPick(selected.hat_ids)) : null,
     underlayer: selected.underlayer_ids?.length ? formatItem(randomPick(selected.underlayer_ids)) : null,

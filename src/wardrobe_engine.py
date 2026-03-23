@@ -47,6 +47,17 @@ class WardrobeEngine:
         cluster = self.cluster_index.get(match["source_id"])
         return cluster["member_item_ids"] if cluster else []
 
+    def _is_dress_match(self, match, top_ids):
+        # Treat a match as dress-based when any source top is a dress subtype.
+        for top_id in top_ids:
+            item = self.item_index.get(top_id)
+            if item and item.get("subtype") == "dress":
+                return True
+        if match.get("source_kind") == "item":
+            item = self.item_index.get(match.get("source_id"))
+            return bool(item and item.get("subtype") == "dress")
+        return False
+
     def _load_history(self):
         if not self.history_path.exists():
             return []
@@ -57,7 +68,14 @@ class WardrobeEngine:
         for m in self.matches:
             if m.get("weather_bucket") != weather or m.get("occasion") != occasion:
                 continue
-            if not m.get("bottom_ids") or not m.get("shoes_ids"):
+            top_ids = self._source_top_ids(m)
+            if not top_ids:
+                continue
+            is_dress = self._is_dress_match(m, top_ids)
+            has_bottom = bool(m.get("bottom_ids"))
+            has_shoes = bool(m.get("shoes_ids"))
+            # Dresses can be valid without bottoms; non-dress looks require bottoms.
+            if not has_shoes or (not is_dress and not has_bottom):
                 continue
             key = f"{weather}|{occasion}|{m['source_kind']}|{m['source_id']}"
             item = dict(m)
@@ -117,7 +135,7 @@ class WardrobeEngine:
             "weather": weather,
             "occasion": occasion,
             "top": self._format_item(random.choice(top_ids)),
-            "bottom": self._format_item(random.choice(selected["bottom_ids"])),
+            "bottom": self._format_item(random.choice(selected["bottom_ids"])) if selected.get("bottom_ids") else None,
             "shoes": self._format_item(random.choice(selected["shoes_ids"])),
             "hat": self._format_item(random.choice(selected["hat_ids"])) if selected.get("hat_ids") else None,
             "underlayer": self._format_item(random.choice(selected["underlayer_ids"]))
