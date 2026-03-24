@@ -3,7 +3,6 @@ const occasionGridEl = document.getElementById("occasionGrid");
 const preferLayersEl = document.getElementById("preferLayers");
 const generateBtn = document.getElementById("generate");
 const resultEl = document.getElementById("result");
-const manageBtn = document.getElementById("manageBtn");
 
 const WEATHER_META = {
   hot_warm: { icon: "☀️", name: "Hot / Warm", range: "30-19°C" },
@@ -259,7 +258,6 @@ async function generate() {
 }
 
 generateBtn.addEventListener("click", generate);
-manageBtn.addEventListener("click", () => alert("Manage screen coming next."));
 Promise.all([loadMeta(), loadDB()]).catch(() => {
   resultEl.classList.remove("hidden");
   resultEl.innerHTML = "<p>Could not load wardrobe data files.</p>";
