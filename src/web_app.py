@@ -39,11 +39,16 @@ class WardrobeHandler(BaseHTTPRequestHandler):
         if path == "/":
             self._send_file(WEB_DIR / "index.html", "text/html; charset=utf-8")
             return
-        if path == "/app.js":
+        if path in ("/app.js", "/web/app.js"):
             self._send_file(WEB_DIR / "app.js", "text/javascript; charset=utf-8")
             return
-        if path == "/styles.css":
+        if path in ("/styles.css", "/web/styles.css"):
             self._send_file(WEB_DIR / "styles.css", "text/css; charset=utf-8")
+            return
+        if path.startswith("/data/"):
+            # Serve local data files used by client-side generator.
+            data_path = ROOT / path.lstrip("/")
+            self._send_file(data_path, "application/json; charset=utf-8")
             return
         if path.startswith("/assets/"):
             # Serve generated images
