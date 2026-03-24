@@ -253,5 +253,1505 @@
     "weather": "hot_warm",
     "occasion": "casual",
     "match_key": "hot_warm|casual|item|top_tshirt_tanktop_black"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_elegant_black_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_shirt_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_cheetah_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_tshirt_black_cropped"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_dress_long_black_gap_dress"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "nice",
+    "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
   }
 ]
