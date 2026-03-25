@@ -21,6 +21,9 @@ let selectedWeather = null;
 let selectedOccasion = null;
 let db = null;
 
+/** Cleared on full page reload; used to skip items for subsequent Generate clicks. */
+const excludedItemIds = new Set();
+
 function weatherSort(a, b) {
   const order = ["hot_warm", "pleasant_chilly", "cold"];
   return order.indexOf(a) - order.indexOf(b);
@@ -120,6 +123,24 @@ function randomPick(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
+function allowedIds(ids) {
+  if (!ids?.length) return [];
+  return ids.filter((id) => !excludedItemIds.has(id));
+}
+
+function isDressMatch(m) {
+  const topIds =
+    m.source_kind === "item" ? [m.source_id] : db.clusterIndex[m.source_id]?.member_item_ids || [];
+  return topIds.some((id) => db.itemIndex[id]?.subtype === "dress");
+}
+
+function matchIsViable(m) {
+  if (!allowedIds(topIdsFor(m)).length) return false;
+  if (!allowedIds(m.shoes_ids || []).length) return false;
+  if (!isDressMatch(m) && !allowedIds(m.bottom_ids || []).length) return false;
+  return true;
+}
+
 function topIdsFor(match) {
   if (match.source_kind === "item") return [match.source_id];
   const cl = db.clusterIndex[match.source_id];
@@ -141,7 +162,7 @@ function formatItem(itemId) {
 }
 
 function chooseMatch(weather, occasion, layerMode) {
-  const isDressMatch = (m) => {
+  const isDressCandidate = (m) => {
     const topIds = m.source_kind === "item" ? [m.source_id] : db.clusterIndex[m.source_id]?.member_item_ids || [];
     return topIds.some((id) => db.itemIndex[id]?.subtype === "dress");
   };
@@ -151,7 +172,7 @@ function chooseMatch(weather, occasion, layerMode) {
     .filter((m) => {
       const hasShoes = (m.shoes_ids || []).length > 0;
       const hasBottoms = (m.bottom_ids || []).length > 0;
-      return hasShoes && (hasBottoms || isDressMatch(m));
+      return hasShoes && (hasBottoms || isDressCandidate(m));
     })
     .map((m) => ({
       ...m,
@@ -162,9 +183,16 @@ function chooseMatch(weather, occasion, layerMode) {
     throw new Error(`No look candidates for ${weather} + ${occasion}.`);
   }
 
+  const viable = candidates.filter(matchIsViable);
+  if (!viable.length) {
+    throw new Error(
+      "No looks left — every option uses items you hid. Refresh the page to reset, or pick different weather/occasion."
+    );
+  }
+
   const used = new Set(getHistory(weather, occasion).map((h) => h.match_key));
-  const pool = candidates.filter((c) => !used.has(c.match_key));
-  const basePool = pool.length ? pool : candidates;
+  const pool = viable.filter((c) => !used.has(c.match_key));
+  const basePool = pool.length ? pool : viable;
   const hasLayer = (m) => (m.underlayer_ids || []).length > 0 || (m.overlayer_ids || []).length > 0;
 
   if (layerMode === "required") {
@@ -183,22 +211,36 @@ function chooseMatch(weather, occasion, layerMode) {
   return randomPick(basePool);
 }
 
+function pickItemOrNull(ids) {
+  const allowed = allowedIds(ids);
+  if (!allowed.length) return null;
+  return formatItem(randomPick(allowed));
+}
+
 function generateLocal(weather, occasion, layerMode) {
   const selected = chooseMatch(weather, occasion, layerMode);
   const topIds = topIdsFor(selected);
   if (!topIds.length) throw new Error("Selected look has no top.");
 
+  const tops = allowedIds(topIds);
+  if (!tops.length) throw new Error("Selected look has no top after exclusions.");
+
   const outfit = {
     weather,
     occasion,
-    top: formatItem(randomPick(topIds)),
-    bottom: selected.bottom_ids?.length ? formatItem(randomPick(selected.bottom_ids)) : null,
-    shoes: formatItem(randomPick(selected.shoes_ids)),
-    hat: selected.hat_ids?.length ? formatItem(randomPick(selected.hat_ids)) : null,
-    underlayer: selected.underlayer_ids?.length ? formatItem(randomPick(selected.underlayer_ids)) : null,
-    overlayer: selected.overlayer_ids?.length ? formatItem(randomPick(selected.overlayer_ids)) : null,
+    top: formatItem(randomPick(tops)),
+    bottom: selected.bottom_ids?.length ? pickItemOrNull(selected.bottom_ids) : null,
+    shoes: pickItemOrNull(selected.shoes_ids),
+    hat: selected.hat_ids?.length ? pickItemOrNull(selected.hat_ids) : null,
+    underlayer: selected.underlayer_ids?.length ? pickItemOrNull(selected.underlayer_ids) : null,
+    overlayer: selected.overlayer_ids?.length ? pickItemOrNull(selected.overlayer_ids) : null,
     match_key: selected.match_key,
   };
+
+  if (!outfit.shoes) throw new Error("Selected look has no shoes after exclusions.");
+  if (!isDressMatch(selected) && selected.bottom_ids?.length && !outfit.bottom) {
+    throw new Error("Selected look has no bottom after exclusions.");
+  }
 
   const hist = getHistory(weather, occasion);
   hist.push({ match_key: selected.match_key, ts: Date.now() });
@@ -206,15 +248,26 @@ function generateLocal(weather, occasion, layerMode) {
   return outfit;
 }
 
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
 function itemCard(slot, item) {
   if (!item) return "";
   const img = item.image_thumb || item.image_full || "";
+  const safeName = escapeHtml(item.name);
+  const safeSlot = escapeHtml(slot);
   return `
     <article class="card">
-      <img src="/${img}" alt="${item.name}" />
+      <img src="/${img}" alt="${safeName}" />
       <div class="meta">
-        <div class="slot">${slot}</div>
-        <div class="name">${item.name}</div>
+        <div class="slot">${safeSlot}</div>
+        <div class="name">${safeName}</div>
+        <button type="button" class="skip-item-btn" data-item-id="${escapeHtml(item.item_id)}">Don't show again</button>
       </div>
     </article>
   `;
@@ -258,6 +311,16 @@ async function generate() {
 }
 
 generateBtn.addEventListener("click", generate);
+
+resultEl.addEventListener("click", (e) => {
+  const btn = e.target.closest(".skip-item-btn[data-item-id]");
+  if (!btn) return;
+  const id = btn.dataset.itemId;
+  if (!id) return;
+  excludedItemIds.add(id);
+  generate();
+});
+
 Promise.all([loadMeta(), loadDB()]).catch(() => {
   resultEl.classList.remove("hidden");
   resultEl.innerHTML = "<p>Could not load wardrobe data files.</p>";
