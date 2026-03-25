@@ -1,225 +1,462 @@
+/* FitMaker — tokens from Figma frame Fitmaker-2 (246:2883) + prior palette */
+:root {
+  --font-sans: "Instrument Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --bg: #191817;
+  --surface: #312f2c;
+  --surface-hover: #3a3835;
+  /* Selected chip: same fill as canvas (Figma) */
+  --surface-active: #191817;
+  --border: rgba(242, 239, 230, 0.12);
+  --border-muted: rgba(242, 239, 230, 0.08);
+  --text: #f2efe6;
+  --text-muted: rgba(242, 239, 230, 0.66);
+  --text-dim: rgba(242, 239, 230, 0.66);
+  /* Temp line in weather cards: 65% opacity (Figma node) */
+  --text-weather-range: rgba(242, 239, 230, 0.65);
+  --yellow: #fdd822;
+  --yellow-hover: #ffe94a;
+  --radius-weather: 20px;
+  --radius-pill: 999px;
+  --transition: 0.16s ease;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background: #0f1118;
-  color: #e7eaf3;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
 }
 
 .container {
-  max-width: 1040px;
-  margin: 22px auto 34px;
-  padding: 0 18px;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 28px 20px 48px;
 }
 
+/* Logo — Instrument Serif Italic 44 / 400 (Figma) */
 .topbar {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 42px;
+  gap: 16px;
+  margin-bottom: 32px;
 }
 
-.topbar h1 {
+.brand {
   margin: 0;
-  font-size: 30px;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  font-synthesis: none;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: 0.95;
+  color: var(--text);
 }
 
-.ghost-btn {
-  height: 34px;
-  padding: 0 12px;
-  border-radius: 10px;
-  border: 1px solid #2d3242;
-  background: #141826;
-  color: #afb5c7;
-  cursor: not-allowed;
-  font-weight: 600;
-  font-size: 13px;
+/* Credit — 14px Regular @ ~66% opacity (Figma) */
+.credit {
+  margin: 4px 0 0;
+  max-width: 220px;
+  text-align: right;
+  font-size: 14px;
+  line-height: 1.35;
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+.credit a {
+  display: block;
+  margin-top: 2px;
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.credit a:hover {
+  color: var(--text);
+}
+
+/* Section labels — 16px Medium, uppercase (Figma) */
+.picker-section {
+  margin-bottom: 24px;
+  padding: 0;
 }
 
 .picker-section h2 {
-  margin: 0 0 10px;
+  margin: 0 0 14px;
   text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-size: 15px;
-  color: #8e97af;
-}
-
-.picker-section {
-  margin-bottom: 18px;
+  letter-spacing: 0.005em;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-muted);
 }
 
 .weather-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(180px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
 }
 
 .occasion-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(130px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
 }
 
 .weather-card,
 .occasion-pill {
-  border-radius: 16px;
-  border: 1px solid #2f3445;
-  background: #151a28;
-  color: #e7eaf3;
+  border: 1px solid transparent;
+  color: var(--text);
   cursor: pointer;
-  transition: all 0.15s ease;
+  transition: border-color var(--transition), background var(--transition), box-shadow var(--transition);
 }
 
 .weather-card {
+  font-family: var(--font-sans);
   text-align: left;
-  padding: 12px;
-  min-height: 96px;
+  padding: 0;
+  min-height: 94px;
+  border-radius: var(--radius-weather);
+  background: var(--surface);
+}
+
+.occasion-pill {
+  height: 56px;
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+/* Icon + title share row 1 (vertically centered); range on row 2 under the title */
+.weather-card__inner {
+  display: grid;
+  grid-template-columns: 40px minmax(0, 1fr);
+  grid-template-rows: auto auto;
+  column-gap: 5px;
+  row-gap: 2px;
+  align-items: start;
+  padding: 16px 14px 24px 14px;
+  height: 100%;
+  min-height: 94px;
+}
+
+.weather-icon-wrap {
+  grid-row: 1;
+  grid-column: 1;
+  align-self: center;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: transparent;
+  border: none;
+}
+
+.weather-copy {
+  display: contents;
+}
+
+.weather-icon {
+  font-size: 24px;
+  line-height: 1;
+}
+
+/* Title line 24 — Medium / 500 (Hot, Warm, etc.); grid cell aligned with emoji row */
+.weather-name {
+  grid-row: 1;
+  grid-column: 2;
+  align-self: center;
+  min-width: 0;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.2;
+}
+
+/* Range 16 uppercase @ 65% opacity (Figma) */
+.weather-range {
+  grid-row: 2;
+  grid-column: 2;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: var(--text-weather-range);
 }
 
 .weather-card:hover,
 .occasion-pill:hover {
-  border-color: #464f67;
+  background: var(--surface-hover);
 }
 
 .weather-card.active,
 .occasion-pill.active {
-  border-color: #7286ff;
-  box-shadow: 0 0 0 1px #7286ff inset;
-  background: #191f33;
-}
-
-.weather-icon {
-  font-size: 22px;
-  line-height: 1;
-  margin-bottom: 8px;
-}
-
-.weather-name {
-  font-size: 22px;
-  font-weight: 650;
-  letter-spacing: -0.01em;
-}
-
-.weather-range {
-  margin-top: 2px;
-  font-size: 15px;
-  color: #9da6bc;
-}
-
-.occasion-pill {
-  height: 48px;
-  font-size: 22px;
-  font-weight: 650;
-  letter-spacing: -0.01em;
+  border-color: var(--yellow);
+  box-shadow: 0 0 0 1px var(--yellow) inset;
+  background: var(--surface-active);
 }
 
 .actions {
-  margin-top: 6px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 10px;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 16px;
 }
 
 label.checkbox {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  color: #a8b0c6;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-weather-range);
+  cursor: pointer;
+  user-select: none;
 }
 
 label.checkbox input {
-  width: 15px;
-  height: 15px;
+  width: 18px;
+  height: 18px;
+  accent-color: var(--yellow);
+  cursor: pointer;
 }
 
+/* CTA — 56px tall, 24px SemiBold, pill (Figma) */
 .primary-btn {
-  height: 40px;
-  padding: 0 14px;
-  border-radius: 10px;
-  border: none;
-  background: #6d80ff;
-  color: #f7f8ff;
-  cursor: pointer;
-  font-weight: 600;
-  font-size: 14px;
-}
-
-.result {
-  margin-top: 20px;
-  display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-}
-
-.card {
-  border: 1px solid #2f323d;
-  background: #1a1c22;
-  border-radius: 12px;
-  overflow: hidden;
-}
-
-.card img {
   width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  background: #101116;
+  min-height: 56px;
+  padding: 0 20px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--yellow);
+  background: var(--yellow);
+  color: var(--bg);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0;
+  transition: background var(--transition), transform var(--transition);
 }
 
-.card .meta {
-  padding: 8px;
+.primary-btn:hover {
+  background: var(--yellow-hover);
+  border-color: var(--yellow-hover);
 }
 
-.card .slot {
-  font-size: 11px;
-  text-transform: uppercase;
-  opacity: 0.7;
-  letter-spacing: 0.05em;
+.primary-btn:active {
+  transform: scale(0.99);
 }
 
-.card .name {
+.primary-btn:focus-visible {
+  outline: 2px solid var(--yellow);
+  outline-offset: 3px;
+}
+
+/* Results */
+.outfit-result {
+  margin-top: 32px;
+}
+
+.outfit-result__title {
+  margin: 0 0 18px;
+  font-family: var(--font-sans);
   font-size: 13px;
-  margin-top: 4px;
-}
-
-.skip-item-btn {
-  margin-top: 8px;
-  width: 100%;
-  padding: 6px 8px;
-  border-radius: 8px;
-  border: 1px solid #3a3f4d;
-  background: #14161c;
-  color: #9da6bc;
-  font-size: 11px;
   font-weight: 600;
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-
-.skip-item-btn:hover {
-  border-color: #5a6175;
-  color: #e7eaf3;
-  background: #1a1d26;
-}
-
-.hidden {
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-dim);
   display: none;
 }
 
-@media (max-width: 920px) {
+.outfit-result--outfit .outfit-result__title {
+  display: block;
+  font-size: clamp(22px, 5vw, 28px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  color: var(--text);
+  margin-bottom: 16px;
+}
+
+.result {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+.result-message {
+  margin: 0;
+  padding: 14px 16px;
+  border-radius: var(--radius-weather);
+  border: 1px solid var(--border-muted);
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 14px;
+  line-height: 1.45;
+  grid-column: 1 / -1;
+}
+
+/* Result item — no outer frame; photo block first, then labels on page bg */
+.card {
+  border: none;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.card__figure {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* 180×180 image tile (fluid 2-col on narrow viewports — see max-width: 520px) */
+.card__figure-inner {
+  width: 180px;
+  max-width: 100%;
+  border-radius: 24px;
+  overflow: hidden;
+  background: #ffffff;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18);
+}
+
+.card__media {
+  position: relative;
+  width: 100%;
+  height: 180px;
+  border-radius: 24px;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card__labels {
+  width: 100%;
+  max-width: 180px;
+  padding: 0 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.card__category {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.005em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.card__name {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text);
+}
+
+.skip-item-btn {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  z-index: 2;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  margin: 0;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0, 0, 0, 0.38);
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background var(--transition), transform var(--transition);
+}
+
+.skip-item-btn:hover {
+  background: rgba(0, 0, 0, 0.52);
+  color: #ffffff;
+}
+
+.skip-item-btn:focus-visible {
+  outline: 2px solid var(--yellow);
+  outline-offset: 2px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+@media (max-width: 640px) {
+  .brand {
+    font-size: 36px;
+  }
+
   .weather-grid {
     grid-template-columns: 1fr;
   }
+
   .occasion-grid {
-    grid-template-columns: repeat(2, minmax(120px, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .primary-btn {
+    font-size: 18px;
+    min-height: 52px;
+  }
+
+  .occasion-pill {
+    font-size: 18px;
+    height: 48px;
+  }
+
+  .weather-name {
+    font-size: 20px;
+    font-weight: 500;
+  }
+}
+
+/* Result cards: 2 equal columns + fluid square thumbs (mobile only) */
+@media (max-width: 520px) {
   .result {
-    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+    gap: 16px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  .topbar h1 {
-    font-size: 26px;
+
+  .card__figure-inner {
+    width: 100%;
+  }
+
+  .card__media {
+    height: auto;
+    aspect-ratio: 1;
+  }
+
+  .card__labels {
+    max-width: 100%;
   }
 }

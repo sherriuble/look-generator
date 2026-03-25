@@ -3,18 +3,19 @@ const occasionGridEl = document.getElementById("occasionGrid");
 const preferLayersEl = document.getElementById("preferLayers");
 const generateBtn = document.getElementById("generate");
 const resultEl = document.getElementById("result");
+const outfitResultSection = document.getElementById("outfitResult");
 
 const WEATHER_META = {
-  hot_warm: { icon: "☀️", name: "Hot / Warm", range: "30-19°C" },
-  pleasant_chilly: { icon: "🍃", name: "Pleasant / Chilly", range: "18-10°C" },
-  cold: { icon: "❄️", name: "Cold", range: "Below 10°C" },
+  hot_warm: { icon: "☀️", name: "Hot / Warm", range: "(30-19°C)" },
+  pleasant_chilly: { icon: "🍃", name: "Pleasant / Chilly", range: "(18-10°C)" },
+  cold: { icon: "❄️", name: "Cold / Cold AF", range: "(+9-10°C)" },
 };
 
 const OCCASION_META = {
   sport: "Sport",
   casual: "Casual",
-  nice: "Nice",
   work: "Work",
+  nice: "Nice",
 };
 
 let selectedWeather = null;
@@ -30,7 +31,7 @@ function weatherSort(a, b) {
 }
 
 function occasionSort(a, b) {
-  const order = ["sport", "casual", "nice", "work"];
+  const order = ["sport", "casual", "work", "nice"];
   return order.indexOf(a) - order.indexOf(b);
 }
 
@@ -49,9 +50,13 @@ function renderWeatherOptions(weathers) {
     btn.className = "weather-card";
     btn.dataset.value = weather;
     btn.innerHTML = `
-      <div class="weather-icon">${meta.icon}</div>
-      <div class="weather-name">${meta.name}</div>
-      <div class="weather-range">${meta.range}</div>
+      <div class="weather-card__inner">
+        <div class="weather-icon-wrap" aria-hidden="true"><span class="weather-icon">${meta.icon}</span></div>
+        <div class="weather-copy">
+          <div class="weather-name">${meta.name}</div>
+          <div class="weather-range">${meta.range}</div>
+        </div>
+      </div>
     `;
     btn.addEventListener("click", () => {
       selectedWeather = weather;
@@ -256,18 +261,44 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
+function slotSlug(slot) {
+  return String(slot)
+    .toLowerCase()
+    .replace(/\s+/g, "-");
+}
+
+function photoUrlForItem(imgPath) {
+  const path = imgPath.startsWith("/") ? imgPath : `/${imgPath}`;
+  return encodeURI(path);
+}
+
 function itemCard(slot, item) {
   if (!item) return "";
   const img = item.image_thumb || item.image_full || "";
   const safeName = escapeHtml(item.name);
-  const safeSlot = escapeHtml(slot);
+  const safeSlot = escapeHtml(slot.toUpperCase());
+  const slug = slotSlug(slot);
+  const url = photoUrlForItem(img);
+  /* One element paints the bitmap: background on .card__media only (no nested layer). */
   return `
-    <article class="card">
-      <img src="/${img}" alt="${safeName}" />
-      <div class="meta">
-        <div class="slot">${safeSlot}</div>
-        <div class="name">${safeName}</div>
-        <button type="button" class="skip-item-btn" data-item-id="${escapeHtml(item.item_id)}">Don't show again</button>
+    <article class="card" data-slot="${escapeHtml(slug)}">
+      <div class="card__figure">
+        <div class="card__figure-inner">
+          <div
+            class="card__media"
+            style='background-image: url(${JSON.stringify(url)});'
+            role="img"
+            aria-label="${safeName}"
+          >
+            <button type="button" class="skip-item-btn" data-item-id="${escapeHtml(
+              item.item_id
+            )}" aria-label="Don't show this item again" title="Don't show again">×</button>
+          </div>
+        </div>
+      </div>
+      <div class="card__labels">
+        <div class="card__category">${safeSlot}</div>
+        <div class="card__name">${safeName}</div>
       </div>
     </article>
   `;
@@ -277,13 +308,15 @@ async function generate() {
   const weather = selectedWeather;
   const occasion = selectedOccasion;
   if (!db) {
-    resultEl.classList.remove("hidden");
-    resultEl.innerHTML = "<p>Loading data, try again in a second.</p>";
+    resultEl.classList.remove("hidden", "result--outfit");
+    outfitResultSection.classList.remove("outfit-result--outfit");
+    resultEl.innerHTML = '<p class="result-message">Loading data, try again in a second.</p>';
     return;
   }
   if (!weather || !occasion) {
-    resultEl.classList.remove("hidden");
-    resultEl.innerHTML = "<p>Please select weather and occasion first.</p>";
+    resultEl.classList.remove("hidden", "result--outfit");
+    outfitResultSection.classList.remove("outfit-result--outfit");
+    resultEl.innerHTML = '<p class="result-message">Please select weather and occasion first.</p>';
     return;
   }
   const layerMode = preferLayersEl.checked ? "prefer" : "auto";
@@ -291,8 +324,10 @@ async function generate() {
   try {
     data = generateLocal(weather, occasion, layerMode);
   } catch (err) {
-    resultEl.classList.remove("hidden");
-    resultEl.innerHTML = `<p>${err.message || "Could not generate look."}</p>`;
+    resultEl.classList.remove("hidden", "result--outfit");
+    outfitResultSection.classList.remove("outfit-result--outfit");
+    const msg = escapeHtml(err.message || "Could not generate look.");
+    resultEl.innerHTML = `<p class="result-message">${msg}</p>`;
     return;
   }
 
@@ -307,6 +342,8 @@ async function generate() {
     .map(([slot, item]) => itemCard(slot, item))
     .join("");
   resultEl.classList.remove("hidden");
+  resultEl.classList.add("result--outfit");
+  outfitResultSection.classList.add("outfit-result--outfit");
   resultEl.innerHTML = cards;
 }
 
@@ -322,6 +359,7 @@ resultEl.addEventListener("click", (e) => {
 });
 
 Promise.all([loadMeta(), loadDB()]).catch(() => {
-  resultEl.classList.remove("hidden");
-  resultEl.innerHTML = "<p>Could not load wardrobe data files.</p>";
+  resultEl.classList.remove("hidden", "result--outfit");
+  outfitResultSection.classList.remove("outfit-result--outfit");
+  resultEl.innerHTML = '<p class="result-message">Could not load wardrobe data files.</p>';
 });

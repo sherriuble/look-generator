@@ -3,36 +3,49 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Wardrobe Generator</title>
+    <title>FitMaker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Instrument+Serif:ital,wght@0,400;0,600;1,400;1,600&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="/web/styles.css" />
   </head>
   <body>
     <main class="container">
       <header class="topbar">
-        <h1>Outfit Generator</h1>
+        <h1 class="brand">FitMaker</h1>
+        <p class="credit">
+          By Anya Sherriuble
+          <a href="https://sherriuble.com" target="_blank" rel="noopener noreferrer">sherriuble.com</a>
+        </p>
       </header>
 
-      <section class="picker-section">
-        <h2>Weather</h2>
+      <section class="picker-section" aria-labelledby="weather-label">
+        <h2 id="weather-label">Weather</h2>
         <div id="weatherGrid" class="weather-grid"></div>
       </section>
 
-      <section class="picker-section">
-        <h2>Occasion</h2>
+      <section class="picker-section" aria-labelledby="occasion-label">
+        <h2 id="occasion-label">Occasion</h2>
         <div id="occasionGrid" class="occasion-grid"></div>
       </section>
 
       <section class="actions">
         <label class="checkbox">
           <input id="preferLayers" type="checkbox" checked />
-          Prefer layered looks
+          Prefer layered look
         </label>
         <button id="generate" class="primary-btn" type="button">Generate Look</button>
       </section>
 
-      <section id="result" class="result hidden"></section>
+      <section id="outfitResult" class="outfit-result" aria-live="polite">
+        <h2 class="outfit-result__title">Your fit of the day</h2>
+        <div id="result" class="result hidden"></div>
+      </section>
     </main>
 
     <script src="/web/app.js"></script>
   </body>
-  </html>
+</html>
