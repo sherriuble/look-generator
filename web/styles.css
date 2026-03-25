@@ -185,6 +185,26 @@ label.checkbox input {
   margin-top: 4px;
 }
 
+.skip-item-btn {
+  margin-top: 8px;
+  width: 100%;
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid #3a3f4d;
+  background: #14161c;
+  color: #9da6bc;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.skip-item-btn:hover {
+  border-color: #5a6175;
+  color: #e7eaf3;
+  background: #1a1d26;
+}
+
 .hidden {
   display: none;
 }
