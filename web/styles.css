@@ -1,7 +1,7 @@
 /* FitMaker — tokens from Figma frame Fitmaker-2 (246:2883) + prior palette */
 :root {
   --font-sans: "Instrument Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --font-display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-brand: "Major Mono Display", ui-monospace, monospace;
   --bg: #191817;
   --surface: #312f2c;
   --surface-hover: #3a3835;
@@ -42,7 +42,7 @@ body {
   padding: 28px 20px 48px;
 }
 
-/* Logo — Instrument Serif Italic 44 / 400 (Figma) */
+/* Logo — Major Mono Display */
 .topbar {
   display: flex;
   align-items: flex-start;
@@ -53,14 +53,17 @@ body {
 
 .brand {
   margin: 0;
-  font-family: var(--font-display);
-  font-style: italic;
+  font-family: var(--font-brand);
+  font-style: normal;
   font-weight: 400;
-  font-synthesis: none;
   font-size: 44px;
-  letter-spacing: 0;
+  letter-spacing: 0.02em;
   line-height: 0.95;
   color: var(--text);
+}
+
+.brand__line {
+  display: inline;
 }
 
 /* Credit — 14px Regular @ ~66% opacity (Figma) */
@@ -412,8 +415,21 @@ label.checkbox input {
 }
 
 @media (max-width: 640px) {
+  .topbar {
+    margin-bottom: 40px;
+  }
+
+  .container > .picker-section:first-of-type {
+    margin-bottom: 32px;
+  }
+
   .brand {
-    font-size: 36px;
+    font-size: 26px;
+    line-height: 0.88;
+  }
+
+  .brand__line {
+    display: block;
   }
 
   .weather-grid {
