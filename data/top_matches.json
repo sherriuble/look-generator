@@ -98,7 +98,7 @@
     "weather_bucket": "cold",
     "bottom_ids": [
       "bottom_pants_wrangler",
-      "bottom_pants_primark_green_pants",
+      "bottom_pants_zaful_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [
@@ -512,7 +512,7 @@
     "bottom_ids": [
       "bottom_pants_black_dickies",
       "bottom_pants_wrangler",
-      "bottom_pants_primark_green_pants",
+      "bottom_pants_zaful_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [
@@ -1259,7 +1259,7 @@
     "weather_bucket": "hot_warm",
     "bottom_ids": [
       "bottom_shorts_black_denim_shorts",
-      "bottom_pants_primark_green_pants",
+      "bottom_pants_zaful_green_pants",
       "bottom_pants_grey_asos",
       "bottom_pants_new_blue_wide_jeans"
     ],
@@ -1282,7 +1282,7 @@
     "weather_bucket": "hot_warm",
     "bottom_ids": [
       "bottom_shorts_black_denim_shorts",
-      "bottom_pants_primark_green_pants",
+      "bottom_pants_zaful_green_pants",
       "bottom_pants_grey_asos",
       "bottom_pants_zebra"
     ],
@@ -1520,7 +1520,6 @@
     "weather_bucket": "hot_warm",
     "bottom_ids": [
       "bottom_shorts_black_denim_shorts",
-      "bottom_pants_primark_green_pants",
       "bottom_pants_grey_slacks",
       "bottom_pants_zebra"
     ],
@@ -1544,7 +1543,7 @@
     "weather_bucket": "hot_warm",
     "bottom_ids": [
       "bottom_shorts_black_denim_shorts",
-      "bottom_pants_primark_green_pants"
+      "bottom_pants_zaful_green_pants"
     ],
     "shoes_ids": [
       "shoes_shoes_adidas_samba",
@@ -1572,7 +1571,7 @@
       "bottom_shorts_black_denim_shorts",
       "bottom_shorts_gramicci_shorts",
       "bottom_pants_grey_slacks",
-      "bottom_pants_primark_green_pants"
+      "bottom_pants_zaful_green_pants"
     ],
     "shoes_ids": [
       "shoes_shoes_nike_air_jordan",
@@ -2184,7 +2183,6 @@
     "bottom_ids": [
       "bottom_pants_wrangler",
       "bottom_pants_zebra",
-      "bottom_pants_primark_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [
@@ -2208,7 +2206,6 @@
     "weather_bucket": "pleasant_chilly",
     "bottom_ids": [
       "bottom_pants_wrangler",
-      "bottom_pants_primark_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [
@@ -2232,7 +2229,6 @@
     "weather_bucket": "pleasant_chilly",
     "bottom_ids": [
       "bottom_pants_black_dickies",
-      "bottom_pants_primark_green_pants",
       "bottom_pants_baggy_black_slacks"
     ],
     "shoes_ids": [
@@ -2378,7 +2374,7 @@
     "bottom_ids": [
       "bottom_pants_black_dickies",
       "bottom_pants_wrangler",
-      "bottom_pants_primark_green_pants",
+      "bottom_pants_zaful_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [
@@ -2427,8 +2423,7 @@
     "bottom_ids": [
       "bottom_pants_black_dickies",
       "bottom_pants_wrangler",
-      "bottom_pants_grey_slacks",
-      "bottom_pants_primark_green_pants"
+      "bottom_pants_grey_slacks"
     ],
     "shoes_ids": [
       "shoes_shoes_vans_tall",
@@ -2525,8 +2520,7 @@
     "bottom_ids": [
       "bottom_pants_black_dickies",
       "bottom_pants_wrangler",
-      "bottom_pants_grey_slacks",
-      "bottom_pants_primark_green_pants"
+      "bottom_pants_grey_slacks"
     ],
     "shoes_ids": [
       "shoes_shoes_vans_tall",
@@ -2837,7 +2831,6 @@
     "bottom_ids": [
       "bottom_pants_wrangler",
       "bottom_pants_zebra",
-      "bottom_pants_primark_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [
@@ -2861,7 +2854,6 @@
     "weather_bucket": "pleasant_chilly",
     "bottom_ids": [
       "bottom_pants_black_dickies",
-      "bottom_pants_primark_green_pants",
       "bottom_pants_baggy_black_slacks"
     ],
     "shoes_ids": [
@@ -2960,6 +2952,7 @@
     "bottom_ids": [
       "bottom_pants_black_dickies",
       "bottom_pants_wrangler",
+      "bottom_pants_zaful_green_pants",
       "bottom_pants_new_blue_wide_jeans"
     ],
     "shoes_ids": [

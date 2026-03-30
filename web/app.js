@@ -93,10 +93,10 @@ async function loadMeta() {
 
 async function loadDB() {
   const [items, clusters, topMatches, imageMap] = await Promise.all([
-    fetch("/data/items.json").then((r) => r.json()),
-    fetch("/data/clusters.json").then((r) => r.json()),
-    fetch("/data/top_matches.json").then((r) => r.json()),
-    fetch("/data/image_map.json").then((r) => r.json()),
+    fetch("/data/items.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("/data/clusters.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("/data/top_matches.json", { cache: "no-store" }).then((r) => r.json()),
+    fetch("/data/image_map.json", { cache: "no-store" }).then((r) => r.json()),
   ]);
   db = {
     items,
