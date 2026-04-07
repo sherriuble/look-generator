@@ -44,10 +44,10 @@
     "thumb": "assets/thumbs/bottom_pants_nike_pro_sport_leggins.png",
     "full": "assets/full/bottom_pants_nike_pro_sport_leggins.png"
   },
-  "bottom_pants_zaful_green_pants": {
-    "item_id": "bottom_pants_zaful_green_pants",
-    "thumb": "assets/thumbs/bottom_pants_zaful_green_pants.png",
-    "full": "assets/full/bottom_pants_zaful_green_pants.png"
+  "bottom_pants_primark_green_pants": {
+    "item_id": "bottom_pants_primark_green_pants",
+    "thumb": "assets/thumbs/bottom_pants_primark_green_pants.png",
+    "full": "assets/full/bottom_pants_primark_green_pants.png"
   },
   "bottom_pants_primark_wool_pants": {
     "item_id": "bottom_pants_primark_wool_pants",
@@ -183,6 +183,11 @@
     "item_id": "overlayer_jacket_coat_blazer_jordan",
     "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_jordan.png",
     "full": "assets/full/overlayer_jacket_coat_blazer_jordan.png"
+  },
+  "overlayer_jacket_coat_blazer_leather_coat": {
+    "item_id": "overlayer_jacket_coat_blazer_leather_coat",
+    "thumb": "assets/thumbs/overlayer_jacket_coat_blazer_leather_coat.png",
+    "full": "assets/full/overlayer_jacket_coat_blazer_leather_coat.png"
   },
   "overlayer_jacket_coat_blazer_margiela_rain_coat": {
     "item_id": "overlayer_jacket_coat_blazer_margiela_rain_coat",

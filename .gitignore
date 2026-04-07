@@ -1,0 +1,4 @@
+.figma_token
+.env
+.env.*
+*.local

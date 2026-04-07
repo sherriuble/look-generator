@@ -1753,5 +1753,85 @@
     "weather": "hot_warm",
     "occasion": "nice",
     "match_key": "hot_warm|nice|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_shirt_black_short_sleeve"
+  },
+  {
+    "weather": "hot_warm",
+    "occasion": "casual",
+    "match_key": "hot_warm|casual|item|top_dress_essentials_fear_of_god"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|cluster|cluster_top_005"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "work",
+    "match_key": "pleasant_chilly|work|item|overlayer_jacket_coat_blazer_leather_coat"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "nice",
+    "match_key": "pleasant_chilly|nice|item|overlayer_jacket_coat_blazer_leather_coat"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_longsleeve_champion"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|overlayer_jacket_coat_blazer_cheetah_blazer"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|overlayer_jacket_coat_blazer_grey_blazer"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_hoodie_sweater_hugo_boss_chicago_bulls"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|cluster|cluster_top_004"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_hoodie_sweater_jacquemus_black_hoodie"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_shirt_white_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_hoodie_sweater_pink_champion_hoodie"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_shirt_black_button_down"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|top_hoodie_sweater_nike_tennis_quarterzip"
+  },
+  {
+    "weather": "pleasant_chilly",
+    "occasion": "casual",
+    "match_key": "pleasant_chilly|casual|item|overlayer_jacket_coat_blazer_leather_coat"
   }
 ]

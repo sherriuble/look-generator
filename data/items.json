@@ -219,8 +219,8 @@
     ]
   },
   {
-    "item_id": "bottom_pants_zaful_green_pants",
-    "name": "Zaful Green Pants",
+    "item_id": "bottom_pants_primark_green_pants",
+    "name": "Primark Green Pants",
     "type": "bottom",
     "subtype": "pants",
     "occasions": [
@@ -272,7 +272,7 @@
     "type": "bottom",
     "subtype": "pants",
     "occasions": [
-      "casual"
+      "sport"
     ],
     "weather_buckets": [
       "hot_warm",
@@ -889,6 +889,30 @@
     "figma_component_ids": [
       "12:838",
       "12:871"
+    ],
+    "active": true,
+    "figma_modes": [
+      "image_only",
+      "full"
+    ]
+  },
+  {
+    "item_id": "overlayer_jacket_coat_blazer_leather_coat",
+    "name": "Leather Coat",
+    "type": "overlayer",
+    "subtype": "jacket_coat_blazer",
+    "occasions": [
+      "casual",
+      "nice",
+      "work"
+    ],
+    "weather_buckets": [
+      "hot_warm",
+      "pleasant_chilly",
+      "cold"
+    ],
+    "figma_component_ids": [
+      "265:2733"
     ],
     "active": true,
     "figma_modes": [
