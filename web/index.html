@@ -22,27 +22,54 @@
         </p>
       </header>
 
-      <section class="picker-section" aria-labelledby="weather-label">
-        <h2 id="weather-label">Weather</h2>
-        <div id="weatherGrid" class="weather-grid"></div>
+      <section class="tabbar" aria-label="Mode selector">
+        <button id="tabDaily" class="tabbar__btn active" data-tab="daily" type="button">Daily Look</button>
+        <button id="tabTrip" class="tabbar__btn" data-tab="trip" type="button">Travel Helper</button>
       </section>
 
-      <section class="picker-section" aria-labelledby="occasion-label">
-        <h2 id="occasion-label">Occasion</h2>
-        <div id="occasionGrid" class="occasion-grid"></div>
+      <section id="dailyTabPanel" class="tab-panel" data-panel="daily">
+        <section class="picker-section" aria-labelledby="weather-label">
+          <h2 id="weather-label">Weather</h2>
+          <div id="weatherGrid" class="weather-grid"></div>
+        </section>
+
+        <section class="picker-section" aria-labelledby="occasion-label">
+          <h2 id="occasion-label">Occasion</h2>
+          <div id="occasionGrid" class="occasion-grid"></div>
+        </section>
+
+        <section class="actions">
+          <label class="checkbox">
+            <input id="preferLayers" type="checkbox" checked />
+            Prefer layered look
+          </label>
+          <button id="generate" class="primary-btn" type="button">Generate Look</button>
+        </section>
+
+        <section id="outfitResult" class="outfit-result" aria-live="polite">
+          <h2 class="outfit-result__title">Your fit of the day</h2>
+          <div id="result" class="result hidden"></div>
+        </section>
       </section>
 
-      <section class="actions">
-        <label class="checkbox">
-          <input id="preferLayers" type="checkbox" checked />
-          Prefer layered look
-        </label>
-        <button id="generate" class="primary-btn" type="button">Generate Look</button>
-      </section>
+      <section id="tripTabPanel" class="tab-panel hidden" data-panel="trip">
+        <section class="picker-section" aria-labelledby="trip-picker-label">
+          <h2 id="trip-picker-label">Trip Look Picker</h2>
+          <div id="tripRows" class="trip-rows"></div>
+          <div class="trip-actions">
+            <button id="addTripRow" class="secondary-btn" type="button">+ Add Row</button>
+            <label class="checkbox">
+              <input id="encourageRepeats" type="checkbox" />
+              Encourage repeats (pack lighter)
+            </label>
+          </div>
+          <button id="generateTrip" class="primary-btn" type="button">Generate Trip Looks</button>
+        </section>
 
-      <section id="outfitResult" class="outfit-result" aria-live="polite">
-        <h2 class="outfit-result__title">Your fit of the day</h2>
-        <div id="result" class="result hidden"></div>
+        <section id="tripResultSection" class="outfit-result" aria-live="polite">
+          <h2 class="outfit-result__title">Trip Looks</h2>
+          <div id="tripResult" class="trip-result hidden"></div>
+        </section>
       </section>
     </main>
 

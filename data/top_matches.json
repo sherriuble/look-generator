@@ -1555,11 +1555,7 @@
       "hat_hat_cubs_green",
       "hat_hat_la_black"
     ],
-    "underlayer_ids": [
-      "top_tshirt_tanktop_black",
-      "top_tshirt_black_bra_top",
-      "top_tshirt_white_wifebeater"
-    ],
+    "underlayer_ids": [],
     "overlayer_ids": [],
     "priority": 1,
     "occasion": "casual"

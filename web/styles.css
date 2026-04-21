@@ -89,6 +89,36 @@ body {
   color: var(--text);
 }
 
+.tabbar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 28px;
+}
+
+.tabbar__btn {
+  min-height: 48px;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+  cursor: pointer;
+  transition: color var(--transition), border-color var(--transition);
+}
+
+.tabbar__btn.active {
+  color: var(--text);
+  border-bottom-color: var(--yellow);
+}
+
+.tab-panel {
+  display: block;
+}
+
 /* Section labels — 16px Medium, uppercase (Figma) */
 .picker-section {
   margin-bottom: 24px;
@@ -222,6 +252,64 @@ body {
   gap: 16px;
 }
 
+.trip-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.trip-row {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr 90px auto;
+  gap: 10px;
+  align-items: center;
+}
+
+.trip-select,
+.trip-count {
+  width: 100%;
+  min-height: 46px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  padding: 0 12px;
+  font-family: var(--font-sans);
+  font-size: 15px;
+}
+
+.trip-count {
+  text-align: center;
+}
+
+.trip-remove,
+.secondary-btn {
+  min-height: 46px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 0 14px;
+  cursor: pointer;
+}
+
+.trip-remove:hover,
+.secondary-btn:hover {
+  background: var(--surface-hover);
+}
+
+.trip-actions {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
 label.checkbox {
   display: inline-flex;
   align-items: center;
@@ -301,6 +389,24 @@ label.checkbox input {
   display: grid;
   gap: 12px;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+.trip-result {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.trip-look {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.trip-look__title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 .result-message {
@@ -432,12 +538,26 @@ label.checkbox input {
     display: block;
   }
 
+  .tabbar__btn {
+    font-size: 16px;
+    min-height: 44px;
+  }
+
   .weather-grid {
     grid-template-columns: 1fr;
   }
 
   .occasion-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .trip-row {
+    grid-template-columns: 1fr;
+  }
+
+  .trip-actions {
+    flex-direction: column;
+    align-items: stretch;
   }
 
   .primary-btn {
